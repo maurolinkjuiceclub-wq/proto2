@@ -1,0 +1,3737 @@
+[
+  {
+    "id": "almeria",
+    "medios": [
+      "noticiasdealmeria.com"
+    ],
+    "estado": "care",
+    "turno": "nuestra",
+    "destinatario": "director@noticiasdealmeria.com",
+    "hilo": {
+      "asunto": "RE: Colaboración editorial",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-04T14:44:49Z",
+    "nuestroUltimo": {
+      "when": "2026-09-04T13:32:31Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Rafael M. Martos · cerrada al 100 %",
+    "aviso": "NO ENVIAR. La ficha está cerrada del todo y el PayPal ya lo ha dado DOS veces, el 02/09 y el 04/09, porque se le repitió la pregunta. Un tercer correo por lo mismo sobra.",
+    "suUltimoCorreo": "ID Pay Pal es director@noticiasdealmeria.com\n\nGracias",
+    "borrador": {
+      "nombre": "NO ENVIAR · ya está cerrada",
+      "texto": "Hola Rafael,\n\nTodo anotado y cerrado: 90 € por artículo para cualquier temática, enlace dofollow, publicación permanente, sin etiqueta de patrocinado, y pago por PayPal a director@noticiasdealmeria.com.\n\nTe escribo con el primer artículo en cuanto tenga un cliente que encaje.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "director@noticiasdealmeria.com",
+        "ok",
+        "D3574"
+      ],
+      "Nombre": [
+        "Rafael M. Martos",
+        "ok",
+        "F3574"
+      ],
+      "Casino": [
+        "90",
+        "ok",
+        "U3574"
+      ],
+      "Cripto": [
+        "90",
+        "ok",
+        "V3574"
+      ],
+      "Forex": [
+        "90",
+        "ok",
+        "W3574"
+      ],
+      "CBD": [
+        "90",
+        "ok",
+        "X3574"
+      ],
+      "Dating": [
+        null,
+        "no",
+        "Y3574"
+      ],
+      "General": [
+        "90",
+        "ok",
+        "Z3574"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3574"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI3574"
+      ]
+    },
+    "pendiente": []
+  },
+  {
+    "id": "madval",
+    "medios": [
+      "madridesnoticia.es",
+      "somgandia.com",
+      "quehacerhoyenmadrid.com",
+      "gentedelasafor.es",
+      "boadillaesnoticia.es",
+      "lasrozasesnoticia.es",
+      "pozueloesnoticia.es",
+      "majadahondaesnoticia.es",
+      "trescantosesnoticia.es",
+      "valenciaesnoticia.com",
+      "somsafor.com"
+    ],
+    "estado": "ok",
+    "turno": "nuestra",
+    "destinatario": "contacto@carlosescriva.com",
+    "hilo": {
+      "asunto": "RE: Oportunidad de colaboración de contenido",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-02T18:43:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-02T17:24:01Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Carlos Escrivá / Madval · 11 cabeceras · todo contestado",
+    "aviso": "No es un revendedor: es el dueño de las cabeceras, y Madval Media es quien le lleva la publicidad. Aquí no hay intermediario que saltarse.",
+    "suUltimoCorreo": "Hola de nuevo Simon.\n\n- Las condiciones que nos diste para Madrid es Noticia (hasta dos enlaces dofollow, sin indicación de contenido patrocinado, 72 horas en portada y después permanencia ilimitada en su sección) ¿son las mismas en las otras diez cabeceras? -- sí todas iguales.\n- En Gente de la Safor me pones 400 €; lo tenía anotado a 300 €. ¿Me confirmas que son 400? --- GENTE DE LA SAFOR: 300€\n\nUn saludo.",
+    "borrador": {
+      "nombre": "Cierre",
+      "texto": "Hola Carlos,\n\nGracias, y perdona el correo repetido: te llegó dos veces el mismo mensaje el martes por un fallo nuestro, y aun así me contestaste las dos veces. Disculpa la lata.\n\nQueda todo anotado con tus respuestas:\n\n- Las condiciones de Madrid es Noticia (hasta dos enlaces dofollow, sin indicación de contenido patrocinado, 72 horas en portada y luego permanencia ilimitada en sección) valen igual para las once cabeceras.\n- Gente de la Safor son 300 €. Corregido.\n\nCon eso tengo la ficha cerrada y no te pregunto nada más. Te escribo con el primer artículo en cuanto tenga un cliente que encaje con alguna de las cabeceras.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "ce@somgandia.com",
+        "ok",
+        "D3115"
+      ],
+      "Contacto extra": [
+        "contacto@carlosescriva.com",
+        "ok",
+        "E3115"
+      ],
+      "Nombre": [
+        "Carlos Escrivá",
+        "ok",
+        "F3115"
+      ],
+      "Casino": [
+        "500",
+        "ok",
+        "U3115"
+      ],
+      "Cripto": [
+        "500",
+        "ok",
+        "V3115"
+      ],
+      "Forex": [
+        "500",
+        "ok",
+        "W3115"
+      ],
+      "CBD": [
+        "500",
+        "ok",
+        "X3115"
+      ],
+      "Dating": [
+        "500",
+        "ok",
+        "Y3115"
+      ],
+      "General": [
+        "500",
+        "ok",
+        "Z3115"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "wait",
+        "AH3115"
+      ],
+      "Permanencia": [
+        "permanent",
+        "wait",
+        "AI3115"
+      ]
+    },
+    "pendiente": []
+  },
+  {
+    "id": "correoandalucia",
+    "medios": [
+      "correoandalucia.es",
+      "elcorreoweb.es"
+    ],
+    "estado": "care",
+    "turno": "suya",
+    "destinatario": "emunoz@correoandalucia.es",
+    "hilo": {
+      "asunto": "RE: Consulta sobre colaboración editorial",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-27T06:41:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-03T12:19:00Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Elena Muñoz · nos corrigió el nombre",
+    "aviso": "ESPERANDO SU RESPUESTA. Nuestro último correo salió el 2026-09-03 desde simon@, o sea que la pelota es suya. El borrador de al lado es un RECORDATORIO para dentro de unos días, no un correo nuevo: mandarlo ahora es escribirles dos veces seguidas. · NO ENVIAR salvo que él escriba primero. Ya se le mandó la misma disculpa DOS VECES, el 02/09 y el 03/09, por un envío duplicado nuestro, y no ha contestado a ninguna: un tercer correo seguido sobra. De fondo, es branded content SIN enlaces dofollow, así que no encaja con lo que vendemos. El borrador de al lado es enviable, pero solo tiene sentido si él reabre el hilo.",
+    "suUltimoCorreo": "Buenos dias Mauricio\nCreo que te has confundido, no soy Veronica.\nY esos precios y esas prestaciones no las tenemos, mira abajo en mi respuesta\n\ngracias",
+    "borrador": {
+      "nombre": "NO ENVIAR · solo si él escribe primero",
+      "texto": "Hola Enrique,\n\nGracias por aclararlo, y perdona el lío con el nombre y con los precios: mezclamos vuestra ficha con la de otro medio y era un error nuestro.\n\nLo dejo anotado tal cual: branded content, sin enlaces dofollow. Con eso no encaja con lo que necesitan nuestros clientes, así que no te doy más la lata.\n\nSi en algún momento abrís un formato o tenéis otra cabecera donde el enlace sí pueda ir dofollow, avísame y lo retomamos encantado.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "publicidad@correoandalucia.es",
+        "ok",
+        "D1183"
+      ],
+      "Contacto extra": [
+        "emunoz@correoandalucia.es",
+        "ok",
+        "E1183"
+      ],
+      "Nombre": [
+        null,
+        "wait",
+        null
+      ],
+      "Casino": [
+        null,
+        "wait",
+        null
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        null
+      ],
+      "Forex": [
+        null,
+        "wait",
+        null
+      ],
+      "CBD": [
+        null,
+        "wait",
+        null
+      ],
+      "Dating": [
+        null,
+        "wait",
+        null
+      ],
+      "General": [
+        null,
+        "wait",
+        null
+      ],
+      "Tipo de enlace": [
+        "Nofollow",
+        "ok",
+        null
+      ],
+      "Permanencia": [
+        null,
+        "wait",
+        null
+      ]
+    },
+    "pendiente": [
+      "Si tienen algún formato que permita dofollow",
+      "Si tienen otras cabeceras donde sí se pueda"
+    ]
+  },
+  {
+    "id": "sobrefrancia",
+    "medios": [
+      "sobrefrancia.com",
+      "elsobredelosblogs.com"
+    ],
+    "estado": "no",
+    "turno": "suya",
+    "destinatario": "sobreblogsnet@gmail.com",
+    "hilo": {
+      "asunto": "RE: Consulta sobre publicaciones",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-27T11:58:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-28T15:03:13Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "Cerrado · le contestamos el 28/08",
+    "aviso": "EL BORRADOR ESTÁ INCOMPLETO A PROPÓSITO: lleva un hueco [PENDIENTE] con el nombre fiscal, la dirección y el CIF. Esos datos los tiene administración, no yo, y NO se pueden inventar. Pídelos y rellénalos antes de enviar. Javier los pidió el 27/08 y nuestra respuesta del 28/08 no los llevaba, así que lleva ocho días esperándolos.",
+    "suUltimoCorreo": "Buenos dias, Mauricio\n\nDe acuerdo, muchas gracias.\n\nNecesitare tambien, cuando me envies el texto, me pases vuestros datos fiscales:\nNombre\nDireccion\nCIF\n\nGracias y un saludo.\n\nJavier Gomez",
+    "borrador": {
+      "nombre": "Mandar los datos fiscales",
+      "texto": "Hola Javier,\n\nPerdona: me pediste los datos fiscales el 27 y en mi respuesta del 28 se me pasó incluirlos. Van aquí.\n\n[PENDIENTE: rellenar con el nombre fiscal, la dirección y el CIF de la empresa antes de enviar. No los tengo yo, los tiene administración.]\n\nCon eso, cuando te mande el texto ya lo tienes todo para facturar.\n\nY una cosa que te pregunté y quedó sin respuesta: ¿tienes algún otro dominio además de sobrefrancia.com con el que podamos colaborar? Aunque tenga menos visitas nos sirve, y lo dejo apuntado con sus condiciones.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "info@sobrefrancia.com",
+        "ok",
+        "D4478"
+      ],
+      "Contacto extra": [
+        "sobreblogsnet@gmail.com",
+        "ok",
+        "E4478"
+      ],
+      "Nombre": [
+        "Javier Gómez",
+        "ok",
+        "F3678"
+      ],
+      "Casino": [
+        "170",
+        "ok",
+        "U3678"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V3678"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W3678"
+      ],
+      "CBD": [
+        null,
+        "wait",
+        "X3678"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y3678"
+      ],
+      "General": [
+        "120",
+        "ok",
+        "Z3678"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3678"
+      ],
+      "Permanencia": [
+        "permanent",
+        "wait",
+        "AI3678"
+      ]
+    },
+    "pendiente": []
+  },
+  {
+    "id": "alexis",
+    "medios": [
+      "adictosalinux.com",
+      "adictec.com",
+      "esgeeks.com",
+      "ccnadesdecero.es"
+    ],
+    "estado": "ok",
+    "turno": "nuestra",
+    "destinatario": "hola@adictosalinux.com",
+    "hilo": {
+      "asunto": "RE: Oportunidad de colaboración de contenido",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-04T23:27:12Z",
+    "nuestroUltimo": {
+      "when": "2026-09-04T23:18:00Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Alexis · 50/90/130 € confirmados · solo enlace general",
+    "aviso": "NO ENVIAR AHORA. Este es el hilo donde le preguntamos dos veces lo mismo: contestó el 04/09 a las 14:59 y a las 23:18 se le volvió a preguntar, porque la mesa no tenía su respuesta. Él contestó «No sé si leíste mi correo anterior». El borrador de al lado pide perdón por eso y cierra, pero mándalo solo si quieres cerrar por escrito: la ficha ya está completa sin él.",
+    "suUltimoCorreo": "Hola Simon,\n\nNo sé si leiste mi correo anterior:\n\nSí. Los precios son así. (Para general link, no grey link)\n\nGeneralmente actualizamos precios en Julio y Diciembre (puede que no cambien, solo en caso de que cambien, serían esas fechas). Así que en Diciembre podríamos tener una actualización.\n\nUn saludo,",
+    "borrador": {
+      "nombre": "NO ENVIAR · ya está contestado",
+      "texto": "Hola Alexis,\n\nPerfecto, gracias por confirmarlo, y perdona el correo repetido de ayer: se me cruzó con el tuyo.\n\nQueda anotado: los precios son los de siempre para enlace general, y los revisáis en julio y diciembre, así que os pregunto antes de cerrar nada con un cliente a partir de diciembre.\n\nTe escribo con la primera temática en cuanto encaje.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "hola@adictosalinux.com",
+        "ok",
+        "D3659"
+      ],
+      "Nombre": [
+        "Alexis",
+        "ok",
+        "F3659"
+      ],
+      "Casino": [
+        null,
+        "no",
+        "U3659"
+      ],
+      "Cripto": [
+        null,
+        "no",
+        "V3659"
+      ],
+      "Forex": [
+        null,
+        "no",
+        "W3659"
+      ],
+      "CBD": [
+        null,
+        "no",
+        "X3659"
+      ],
+      "Dating": [
+        null,
+        "no",
+        "Y3659"
+      ],
+      "General": [
+        "50",
+        "ok",
+        "Z3659"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3659"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI3659"
+      ]
+    },
+    "pendiente": [
+      "General (Z): confirmar que 50, 90, 130 y 130 siguen vigentes"
+    ]
+  },
+  {
+    "id": "adnsureste",
+    "medios": [
+      "adnsureste.info"
+    ],
+    "estado": "no",
+    "turno": "acuse",
+    "destinatario": "dnolasco70@gmail.com",
+    "hilo": {
+      "asunto": "RE: Posible colaboración para artículos",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-02T13:19:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-02T12:27:13Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Darío Nolasco · cerrado",
+    "aviso": "",
+    "suUltimoCorreo": "Perfecto Simón seguimos en contacto\n\nSaludos",
+    "borrador": {
+      "nombre": "Nada que preguntar",
+      "texto": "Hola Darío,\n\nSin novedad por mi parte, solo confirmarte que lo tengo todo anotado: 150 € en euros tanto para artículo nuevo como para inserción en uno existente, casino, apuestas, cripto y forex dentro, y fuera pornografía, trata, webs de citas y drogas incluido el CBD. Pago por PayPal en las 24 horas siguientes a la publicación, con la comisión aparte.\n\nTe escribo con la temática en cuanto tenga el primer cliente que encaje.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "dnolasco70@gmail.com",
+        "ok",
+        "D1548"
+      ],
+      "Nombre": [
+        "Dario",
+        "wait",
+        "F1548"
+      ],
+      "Casino": [
+        "150",
+        "ok",
+        "U1548"
+      ],
+      "Cripto": [
+        "150",
+        "ok",
+        "V1548"
+      ],
+      "Forex": [
+        "150",
+        "ok",
+        "W1548"
+      ],
+      "CBD": [
+        null,
+        "no",
+        "X1548"
+      ],
+      "Dating": [
+        null,
+        "no",
+        "Y1548"
+      ],
+      "General": [
+        "150",
+        "ok",
+        "Z1548"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH1548"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI1548"
+      ]
+    },
+    "pendiente": []
+  },
+  {
+    "id": "mindies2",
+    "medios": [
+      "mindies.es"
+    ],
+    "estado": "ok",
+    "turno": "suya",
+    "destinatario": "mindiesblog@gmail.com",
+    "hilo": {
+      "asunto": "RE: Publicación de artículo",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-01T15:10:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-02T12:28:08Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Noé R. Rivas · cerrado",
+    "aviso": "ESPERANDO SU RESPUESTA. Nuestro último correo salió el 2026-09-02 desde simon@, o sea que la pelota es suya. El borrador de al lado es un RECORDATORIO para dentro de unos días, no un correo nuevo: mandarlo ahora es escribirles dos veces seguidas. · Decidid de una vez si los seguimientos de los hilos de mauro@ se mandan desde mauro@ o desde simon@ presentándose. Mientras no se decida, esto va a volver a pasar en cada hilo.",
+    "suUltimoCorreo": "Mu buenas Mauricio, te respondo con tus dudas:\n\n- Comentaste que no publicáis contenido para adultos. ¿Eso incluye webs de citas? No es contenido explícito, pero prefiero preguntarlo y no darlo por supuesto. Sí, incluye webs de citas.\n- Los 15 euros los mencionaste para casino, cripto, CBD y tabaco. ¿Forex entra también ahí? Sí, también entraría.",
+    "borrador": {
+      "nombre": "Recordatorio · solo si tardan",
+      "texto": "Hola Noé,\n\nTodo cerrado por mi parte: 15 € el artículo, y a ese precio entran casino, cripto, CBD, tabaco y también forex. Las webs de citas quedan fuera, dentro de lo que no publicáis.\n\nTe escribo en cuanto tengamos una temática que encaje.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "mindiesblog@gmail.com",
+        "ok",
+        "D3407"
+      ],
+      "Nombre": [
+        "Noé R. Rivas",
+        "ok",
+        "F3407"
+      ],
+      "Casino": [
+        "15",
+        "ok",
+        "U3407"
+      ],
+      "Cripto": [
+        "15",
+        "ok",
+        "V3407"
+      ],
+      "Forex": [
+        "15",
+        "ok",
+        "W3407"
+      ],
+      "CBD": [
+        "15",
+        "ok",
+        "X3407"
+      ],
+      "Dating": [
+        null,
+        "no",
+        "Y3407"
+      ],
+      "General": [
+        "15",
+        "ok",
+        "Z3407"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3407"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI3407"
+      ]
+    },
+    "pendiente": []
+  },
+  {
+    "id": "hyliacom",
+    "medios": [
+      "descargar.org",
+      "juegosadn.es",
+      "animanga.es",
+      "vivecamino.com",
+      "pokemaster.es",
+      "merkalo.com"
+    ],
+    "estado": "ok",
+    "turno": "suya",
+    "destinatario": "administrador@hyliacom.es",
+    "hilo": {
+      "asunto": "RE: Colaboración con vuestros sitios",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-01T14:25:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-02T12:28:26Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Jose Miguel Blasco · 6 filas en la hoja",
+    "aviso": "ESPERANDO SU RESPUESTA. Nuestro último correo salió el 2026-09-02 desde simon@, o sea que la pelota es suya. El borrador de al lado es un RECORDATORIO para dentro de unos días, no un correo nuevo: mandarlo ahora es escribirles dos veces seguidas. · Si vas a mandar el cierre, aprovecha y pregunta casino y dating de una vez, para no abrir el hilo otra vez la semana que viene.",
+    "suUltimoCorreo": "Hola Simon\nForex y CBD tampoco trabajamos\n\nSaludos",
+    "borrador": {
+      "nombre": "Recordatorio · solo si tardan",
+      "texto": "Hola Jose Miguel,\n\nTodo cerrado por mi parte: 300 € más IVA si os pasamos el contenido listo y 400 € más IVA si lo redactáis vosotros, artículo permanente, sin etiqueta de patrocinado, y fuera cripto, forex y CBD.\n\nTe escribo en cuanto tenga una temática que encaje con alguno de vuestros sitios.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "administrador@hyliacom.es",
+        "ok",
+        "D1385"
+      ],
+      "Nombre": [
+        "Jose Miguel Blasco",
+        "ok",
+        "F1385"
+      ],
+      "Casino": [
+        "300",
+        "ok",
+        "U1385"
+      ],
+      "Cripto": [
+        null,
+        "no",
+        "V1385"
+      ],
+      "Forex": [
+        null,
+        "no",
+        "W1385"
+      ],
+      "CBD": [
+        null,
+        "no",
+        "X1385"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y1385"
+      ],
+      "General": [
+        "300",
+        "ok",
+        "Z1385"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH1385"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI1385"
+      ]
+    },
+    "pendiente": [
+      "Casino y dating siguen sin preguntar"
+    ]
+  },
+  {
+    "id": "elclarin",
+    "medios": [
+      "elclarinweb.com"
+    ],
+    "estado": "ok",
+    "turno": "acuse",
+    "destinatario": "mercadeo@elclarin.net.ve",
+    "hilo": {
+      "asunto": "RE: Posible colaboración para artículos",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-03T17:19:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-03T16:31:29Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "50 $ · dofollow · 2 años renovables · sin CBD ni citas",
+    "aviso": "NO HACE FALTA ENVIAR NADA. Su último correo es un «quedamos a la orden»: la ficha está cerrada y el siguiente movimiento es mandarles un artículo, no un correo. El borrador de al lado es un acuse corto, por si prefieres cerrar el hilo por escrito. · AVISO DE VENTA: la vigencia es de DOS AÑOS renovable y si no se renueva el artículo puede retirarse. No se puede vender como enlace permanente.",
+    "suUltimoCorreo": "Hola Simon,\n\nExcelente, perfecto. Quedamos a la orden para cualquier informacion adicional o para avanzar con la primera publicacion cuando lo requieran.\n\nSaludos cordiales,\n\nMercadeo El Clarin",
+    "borrador": {
+      "nombre": "Opcional · acuse corto",
+      "texto": "Hola,\n\nGracias, queda todo anotado por nuestra parte.\n\nOs escribimos con el primer artículo en cuanto tengamos un cliente que encaje con casino, cripto o forex.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "mercadeo@elclarin.net.ve",
+        "ok",
+        "D5388"
+      ],
+      "Nombre": [
+        null,
+        "wait",
+        "F5388"
+      ],
+      "Casino": [
+        "50",
+        "ok",
+        "U5388"
+      ],
+      "Cripto": [
+        "50",
+        "ok",
+        "V5388"
+      ],
+      "Forex": [
+        "50",
+        "ok",
+        "W5388"
+      ],
+      "CBD": [
+        null,
+        "no",
+        "X5388"
+      ],
+      "Dating": [
+        null,
+        "no",
+        "Y5388"
+      ],
+      "General": [
+        "50",
+        "ok",
+        "Z5388"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH5388"
+      ],
+      "Permanencia": [
+        "2 años renovables",
+        "ok",
+        "AI5388"
+      ]
+    },
+    "pendiente": []
+  },
+  {
+    "id": "guiastravel",
+    "medios": [
+      "viajaralondres.com",
+      "viajararoma.com",
+      "viajarabarcelona.org"
+    ],
+    "estado": "no",
+    "turno": "nuestra",
+    "destinatario": "info@guias.travel",
+    "hilo": {
+      "asunto": "RE: Oportunidad de colaboración de contenido",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-02T17:37:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-02T12:35:13Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Soledad · 580 € dofollow · solo turismo",
+    "aviso": "580 € es de los precios más altos de la lista. Vale la pena confirmar el enlace antes de venderlo, no después.",
+    "suUltimoCorreo": "dofollow normal.",
+    "borrador": {
+      "nombre": "Nada que preguntar",
+      "texto": "Hola Soledad,\n\nPerfecto, con «dofollow normal» me queda claro y la ficha está cerrada: 580 € por artículo si la temática encaja con el sitio, enlace dofollow y publicación permanente. Y fuera casino, cripto, forex, CBD y citas.\n\nTe escribo en cuanto tenga un cliente de turismo que encaje.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "info@guias.travel",
+        "ok",
+        "D3167"
+      ],
+      "Nombre": [
+        "Soledad",
+        "wait",
+        "F3167"
+      ],
+      "Casino": [
+        null,
+        "no",
+        "U3167"
+      ],
+      "Cripto": [
+        null,
+        "no",
+        "V3167"
+      ],
+      "Forex": [
+        null,
+        "no",
+        "W3167"
+      ],
+      "CBD": [
+        null,
+        "no",
+        "X3167"
+      ],
+      "Dating": [
+        null,
+        "no",
+        "Y3167"
+      ],
+      "General": [
+        "580",
+        "ok",
+        "Z3167"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3167"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI3167"
+      ]
+    },
+    "pendiente": []
+  },
+  {
+    "id": "elmagacin",
+    "medios": [
+      "elmagacin.com",
+      "viajaresvida.com"
+    ],
+    "estado": "care",
+    "turno": "suya",
+    "destinatario": "info@elmagacin.com",
+    "hilo": {
+      "asunto": "RE: Posible colaboración a largo plazo",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-26T22:36:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-02T12:37:04Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Daniel · les hicimos repetirse",
+    "aviso": "HILO PARTIDO POR NUESTRA CULPA: el 19/08 le salió «Posible colaboración de contenido» y el 26/08 se le escribió por «Posible colaboración a largo plazo». De ahí su corte seco del 26/08: son dos hilos y le preguntamos lo mismo dos veces. El hilo bueno es «Posible colaboración a largo plazo», donde está su último mensaje. · En una pasada anterior se le atribuyó a este contacto un precio de 85 € para viajaresvida.com que resultó ser 100 €. Antes de tocar estas dos filas hay que releer su correo del 20/08 entero.",
+    "suUltimoCorreo": "Tardamos menos si revisas tu correo del día 20 de agosto.",
+    "borrador": {
+      "nombre": "NO ENVIAR · ya está cerrada",
+      "texto": "Hola Daniel,\n\nSolo una cosa que se me quedó sin preguntar y que necesito para la hoja: de las temáticas con recargo (casino, cripto, forex, juego, CBD, tabaco, préstamos, vapeadores), ¿hay alguna que no publiquéis en absoluto, o todas entran pagando los 125 € extra?\n\nNada más. Gracias.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "info@elmagacin.com",
+        "ok",
+        "D3532"
+      ],
+      "Nombre": [
+        "Daniel",
+        "wait",
+        "F3532"
+      ],
+      "Casino": [
+        "210",
+        "wait",
+        "U3532"
+      ],
+      "Cripto": [
+        "210",
+        "wait",
+        "V3532"
+      ],
+      "Forex": [
+        "210",
+        "wait",
+        "W3532"
+      ],
+      "CBD": [
+        "210",
+        "wait",
+        "X3532"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y3532"
+      ],
+      "General": [
+        "85",
+        "wait",
+        "Z3532"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "wait",
+        "AH3532"
+      ],
+      "Permanencia": [
+        "permanent",
+        "wait",
+        "AI3532"
+      ]
+    },
+    "pendiente": [
+      "Releer su correo del 20/08 y actualizar la fila con lo que diga"
+    ]
+  },
+  {
+    "id": "enlacemultimedia",
+    "medios": [
+      "periodistas-es.com",
+      "aqui.madrid"
+    ],
+    "estado": "ok",
+    "turno": "suya",
+    "destinatario": "publicidad@enlacemultimedia.es",
+    "hilo": {
+      "asunto": "RE: Oportunidad de colaboración de contenido",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-25T21:47:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-02T12:41:29Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Rafael · dating pendiente de sus editores",
+    "aviso": "ESPERANDO SU RESPUESTA. Nuestro último correo salió el 2026-09-02 desde simon@, o sea que la pelota es suya. El borrador de al lado es un RECORDATORIO para dentro de unos días, no un correo nuevo: mandarlo ahora es escribirles dos veces seguidas. · Antes de dar por buenos los precios de este medio hay que releer tu propio resumen del 25/08. «Las cifras son correctas» solo vale como confirmación si sabemos qué cifras eran.",
+    "suUltimoCorreo": "Las cifras son correctas.\n\nRespecto a dating y app de citas tenemos que consultar con los editores en cada caso, porque se han encontrado sitios web catalogados así que encubrían la prostitución.\n\n Saludos",
+    "borrador": {
+      "nombre": "Recordatorio · solo si tardan",
+      "texto": "Hola Rafael,\n\nSin nada que preguntar, solo dejarlo cerrado: las cifras quedan confirmadas y en dating trabajamos como me dijiste, caso por caso. Cuando tenga un cliente de ese tipo te mando la URL y el borrador antes de nada y decidís vosotros.\n\nTe escribo con el primer artículo en cuanto encaje.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "publicidad@enlacemultimedia.es",
+        "ok",
+        "D1484"
+      ],
+      "Nombre": [
+        "Rafael",
+        "wait",
+        "F1484"
+      ],
+      "Casino": [
+        "35",
+        "wait",
+        "U1484"
+      ],
+      "Cripto": [
+        "170",
+        "wait",
+        "V1484"
+      ],
+      "Forex": [
+        "170",
+        "wait",
+        "W1484"
+      ],
+      "CBD": [
+        "170",
+        "wait",
+        "X1484"
+      ],
+      "Dating": [
+        "A consultar",
+        "wait",
+        "Y1484"
+      ],
+      "General": [
+        "120",
+        "wait",
+        "Z1484"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "wait",
+        "AH1484"
+      ],
+      "Permanencia": [
+        "permanent",
+        "wait",
+        "AI1484"
+      ]
+    },
+    "pendiente": [
+      "Confirmar el proceso caso por caso para dating",
+      "Sacar del hilo del 25/08 las cifras que él dio por correctas"
+    ]
+  },
+  {
+    "id": "diariodesantiago",
+    "medios": [
+      "diariodesantiago.es"
+    ],
+    "estado": "ok",
+    "turno": "suya",
+    "destinatario": "gcatoira@diariodesantiago.es",
+    "hilo": {
+      "asunto": "RE: DS",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-29T14:07:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-01T15:30:36Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Gonzalo Catoira · nos piden propuesta",
+    "aviso": "No menciones los 375 € ni al intermediario. Si su precio directo es más bajo, ese es el que vale (con quepasa.com.ve, elimpulso.com y madridpress.com la diferencia fue de casi el triple).",
+    "suUltimoCorreo": "Hola Mauricio:\n\nGracias por contactar con Diario de Santiago.\n\nEstamos abiertos a estudiar propuestas de colaboracion de contenido. Podrias indicarnos que tipo de publicaciones os interesan, las tematicas con las que trabajais y el presupuesto que manejais por publicacion?\n\nCon esa informacion podremos valorar la propuesta y explicaros las condiciones y el proceso.\n\nUn saludo,",
+    "borrador": {
+      "nombre": "Recordatorio · solo si tardan",
+      "texto": "Hola Gonzalo,\n\nTe escribo solo por si se perdió el correo del lunes, donde te contaba qué buscamos y qué temáticas manejamos.\n\nLo que me falta de vuestra parte para poder moveros propuestas concretas:\n\n- Precio por publicación para contenido general\n- Si aceptáis alguna de las categorías delicadas (casino y apuestas, cripto, forex, CBD, citas) y a qué precio\n- Si el enlace se publica como dofollow\n- Si el artículo queda permanente y si lleva etiqueta de patrocinado\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "gcatoira@diariodesantiago.es",
+        "ok",
+        "D1391"
+      ],
+      "Contacto extra": [
+        "craigresnikhanson@zohomail.eu",
+        "care",
+        "E1391"
+      ],
+      "Nombre": [
+        "Craig",
+        "wait",
+        "F2497"
+      ],
+      "Casino": [
+        "375",
+        "wait",
+        "U2497"
+      ],
+      "Cripto": [
+        "375",
+        "wait",
+        "V2497"
+      ],
+      "Forex": [
+        "375",
+        "wait",
+        "W2497"
+      ],
+      "CBD": [
+        "375",
+        "wait",
+        "X2497"
+      ],
+      "Dating": [
+        "375",
+        "wait",
+        "Y2497"
+      ],
+      "General": [
+        "375",
+        "wait",
+        "Z2497"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "wait",
+        "AH2497"
+      ],
+      "Permanencia": [
+        "permanent",
+        "wait",
+        "AI2497"
+      ]
+    },
+    "pendiente": [
+      "Precio por publicación de contenido general",
+      "Precio de casino, cripto, forex, CBD y dating, y si los aceptan",
+      "¿El enlace es dofollow?",
+      "¿Permanencia y etiqueta de patrocinado?"
+    ]
+  },
+  {
+    "id": "cinnamonnews",
+    "medios": [
+      "modaes.com",
+      "ejeprime.com",
+      "riceandcore.com",
+      "movemodaenmovimiento.com"
+    ],
+    "estado": "care",
+    "turno": "nuestra",
+    "destinatario": "silas.stabile@cinnamonnews.com",
+    "hilo": {
+      "asunto": "RE: Consulta sobre publicaciones",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-04T08:49:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-03T16:37:20Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Silas Stabile · reagendar reunión lunes/martes",
+    "aviso": "En la hoja el contacto es natalia.fernandez@cinnamonnews.com y aquí escriben Silas Stabile y Vanesa Luaces (directora general). No sustituyas el contacto hasta saber quién lleva publicidad.",
+    "suUltimoCorreo": "Hola, Simon. Buenos dias.\nSin problema. Si te va bien, estoy disponible el lunes a las 10h o 11h, y el martes a las 10h o 16h.\n\nPara adelantarte algunas dudas, he preparado una propuesta de branded content a modo de ejemplo, para que tengas todos los detalles (inversion, alcance, etc.).\nSiempre recomendamos junto al contenido que se haga alguna inversion de publicidad como apoyo para el contenido.\n\nRespecto a las demas consultas:\nEnlaces: Si, el enlace es dofollow (incluye hasta 2 por articulo).\nPermanencia: Se queda de forma permanente en nuestra web.\nEtiqueta: Si, lleva la etiqueta de contenido patrocinado.\nTematicas no permitidas: No trabajamos tematicas como casino, apuestas, cripto, paginas de citas, etc.\n\nAprovecho para dejarte por aqui un enlace de ejemplo de un content que hicimos recientemente:\nBranded Content\nUn saludo,",
+    "borrador": {
+      "nombre": "Confirmar hora y pedir el precio",
+      "texto": "Hola Silas,\n\nPerfecto, me va bien el lunes a las 10h. Si te encaja, lo dejamos así y te mando la invitación.\n\nHe visto la propuesta de branded content, gracias por adelantarla.\n\nY anotado lo demás: enlace dofollow con hasta dos por artículo, permanencia en la web, etiqueta de contenido patrocinado, y fuera casino, apuestas, cripto y páginas de citas.\n\nDos cosas que te pido para el lunes, para no gastar la reunión en ellas:\n\n- El precio por artículo, en el correo. Está en el PDF, pero necesito poder citarlo por escrito para nuestra hoja de tarifas.\n- Nombras casino, apuestas, cripto y citas como no permitidas. ¿Forex y CBD entran en ese mismo grupo, o van aparte?\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "silas.stabile@cinnamonnews.com",
+        "ok",
+        "D1300"
+      ],
+      "Contacto extra": [
+        "natalia.fernandez@cinnamonnews.com",
+        "ok",
+        "E1300"
+      ],
+      "Nombre": [
+        "Natalia Fernandez",
+        "wait",
+        "F2871"
+      ],
+      "Casino": [
+        null,
+        "wait",
+        "U2871"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V2871"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W2871"
+      ],
+      "CBD": [
+        null,
+        "wait",
+        "X2871"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y2871"
+      ],
+      "General": [
+        "30",
+        "wait",
+        "Z2871"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "wait",
+        "AH2871"
+      ],
+      "Permanencia": [
+        "permanent",
+        "wait",
+        "AI2871"
+      ]
+    },
+    "pendiente": [
+      "Confirmar hora del jueves 3 o viernes 4",
+      "Tarifa por publicación",
+      "Qué medios del grupo entran",
+      "Dofollow, permanencia y etiqueta",
+      "Categorías especiales"
+    ]
+  },
+  {
+    "id": "gpr",
+    "medios": [
+      "radiopanamericana.com"
+    ],
+    "estado": "care",
+    "turno": "nuestra",
+    "destinatario": "ximena.chumpitazi@gpr.pe",
+    "hilo": {
+      "asunto": "RE: Posible colaboración de contenido",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-28T20:32:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-28T14:06:05Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "Grupo Panamericana · piden meet",
+    "aviso": "No hay firma en el cuerpo del correo, así que el saludo va sin nombre a propósito. Su nombre solo aparece como nombre de cuenta, y esa es exactamente la vía por la que salió el «Hola Verónica» del 26/08.",
+    "suUltimoCorreo": "Hola Mauro!\n\nTe parece si coordinamos un meet la siguiente semana (jueves o viernes) y me cuentas un poco mas de tu propuesta?",
+    "borrador": {
+      "nombre": "Reagendar",
+      "texto": "Hola Ximena,\n\nPerdona el silencio: me propusiste vernos el jueves o el viernes de la semana pasada y se me pasó contestarte a tiempo. Culpa mía.\n\n¿Te va bien la semana que viene? Puedo el lunes 7, el martes 8 o el miércoles 9, en la franja que te venga mejor. Dime hora y te mando la invitación.\n\nY para que la reunión sea corta y útil, te adelanto lo que buscamos: artículos patrocinados redactados por nosotros, con un enlace dofollow a la web del cliente. Si me puedes adelantar precio por publicación y si aceptáis temáticas como casino, cripto o forex, llegamos con la mitad del trabajo hecho.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "ximena.chumpitazi@gpr.pe",
+        "ok",
+        "D1682"
+      ],
+      "Contacto extra": [
+        "robert.cabello@gpr.com.pe",
+        "care",
+        "E1682"
+      ],
+      "Nombre": [
+        "Robert Cabello",
+        "wait",
+        "F2493"
+      ],
+      "Casino": [
+        "472",
+        "wait",
+        "U2493"
+      ],
+      "Cripto": [
+        "472",
+        "wait",
+        "V2493"
+      ],
+      "Forex": [
+        "472",
+        "wait",
+        "W2493"
+      ],
+      "CBD": [
+        "472",
+        "wait",
+        "X2493"
+      ],
+      "Dating": [
+        "472",
+        "wait",
+        "Y2493"
+      ],
+      "General": [
+        "472",
+        "wait",
+        "Z2493"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "wait",
+        "AH2493"
+      ],
+      "Permanencia": [
+        "permanent",
+        "wait",
+        "AI2493"
+      ]
+    },
+    "pendiente": [
+      "Hora concreta del jueves o el viernes",
+      "Tarifa por publicación",
+      "Qué otros medios del grupo entran",
+      "Dirección de contacto buena",
+      "Dofollow, permanencia, etiqueta y categorías"
+    ]
+  },
+  {
+    "id": "grupolarazon",
+    "medios": [
+      "larazon.pe",
+      "elmen.pe",
+      "todosport.pe",
+      "diarioaja.pe",
+      "elchino.pe"
+    ],
+    "estado": "care",
+    "turno": "nuestra",
+    "destinatario": "marketing.grupolarazon@gmail.com",
+    "hilo": {
+      "asunto": "RE: Posible colaboración a largo plazo",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-04T04:32:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-03T16:38:13Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Grupo La Razón · 5 medios, falta el dofollow",
+    "aviso": "HILO PARTIDO POR NUESTRA CULPA: el 28/08 entre las 14:01 y las 14:03 le salieron TRES propuestas en frío con tres asuntos distintos («Posible colaboración a largo plazo», «Oportunidad de colaboración editorial» y «Posible colaboración para artículos»). Él contestó por dos de ellos y nos mandó el mismo tarifario dos veces, que es exactamente lo que se ve arriba. Contesta SOLO por «Posible colaboración a largo plazo», que es donde está su último mensaje, y no toques los otros dos. · Dos contactos distintos para el mismo grupo y precios que no cuadran entre sí. No sobrescribas la hoja hasta que contesten el tipo de enlace: si va sponsored por defecto, el tarifario entero se cae.",
+    "suUltimoCorreo": "Si, dofollow.\nPermanente y sin etiqueta a menos que uds lo requieran.\nCBD y citas no aceptamos.",
+    "borrador": {
+      "nombre": "Cierre",
+      "texto": "Hola,\n\nPerfecto, con eso lo tengo cerrado:\n\n- Enlace dofollow\n- Artículo permanente y sin etiqueta de patrocinado, salvo que la pidamos nosotros\n- CBD y webs de citas fuera\n\nY perdona el lío de agosto: te salieron tres correos nuestros con asuntos distintos el mismo día por un fallo de nuestro sistema, y por eso acabaste mandándonos el tarifario dos veces. Seguimos por este hilo y no vuelve a pasar.\n\nTe escribo con el primer artículo en cuanto tenga un cliente que encaje.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "digital@grupolarazon.pe",
+        "ok",
+        "D5220"
+      ],
+      "Contacto extra": [
+        "marketing.grupolarazon@gmail.com",
+        "ok",
+        "E5220"
+      ],
+      "Nombre": [
+        "Jaime Barkmak",
+        "wait",
+        "F2495"
+      ],
+      "Casino": [
+        "300",
+        "wait",
+        "U2495"
+      ],
+      "Cripto": [
+        "300",
+        "wait",
+        "V2495"
+      ],
+      "Forex": [
+        "300",
+        "wait",
+        "W2495"
+      ],
+      "CBD": [
+        "300",
+        "wait",
+        "X2495"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y2495"
+      ],
+      "General": [
+        "300",
+        "wait",
+        "Z2495"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "wait",
+        "AH2495"
+      ],
+      "Permanencia": [
+        "permanent",
+        "wait",
+        "AI2495"
+      ]
+    },
+    "pendiente": [
+      "¿El enlace es dofollow, y si no, cuál es la tarifa dofollow?",
+      "¿Permanencia y etiqueta de patrocinado?",
+      "¿Entran CBD y dating, y con qué recargo?",
+      "Aclarar cuál de los dos contactos lleva las ventas"
+    ]
+  },
+  {
+    "id": "cocinarvegano",
+    "medios": [
+      "cocinarvegano.com",
+      "nutricionvegana.org",
+      "guiavegana.net",
+      "tutorialesubuntu.com"
+    ],
+    "estado": "care",
+    "turno": "suya",
+    "destinatario": "cocinarvegano@gmail.com",
+    "hilo": {
+      "asunto": "RE: Consulta sobre colaboración editorial",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-29T08:07:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-03T16:38:31Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "red vegana · 4 dominios a 35 €",
+    "aviso": "aitorruiz93@gmail.com figura también como contacto de elcorreoweb.es en la hoja. Antes de tocar estas cuatro filas conviene aclarar si es el propietario de las webs o un intermediario.",
+    "suUltimoCorreo": "Hola,\n\nlo primero de todo gracias por contactar. El servicio que ofrecemos es de posts patrocinados con las siguientes caracteristicas:\n* Minimo 400 palabras\n* 1 enlace dofollow al cliente.\n* 1 enlace a sitio de renombre para darle calidad al articulo\n* El articulo tiene que venir redactado. No ofrecemos servicio de redaccion de articulos.\n* No se menciona que es un articulo patrocinado o publicidad\n* Podeis aportar una imagen de cabecera o la ponemos nosotros\n* No incluye difusion en redes sociales\n* Casinos, apuestas, erotico, citas: no.\n* CBD si.\n\nTarifa:\n35 EUR + IVA\n\nEste servicio esta disponible para las siguientes webs:\nhttps://nutricionvegana.org\nhttps://www.cocinarvegano.com\nhttps://www.guiavegana.net\nhttps://www.tutorialesubuntu.com\n\nMuchas gracias, un saludo",
+    "borrador": {
+      "nombre": "Recordatorio · solo si tardan",
+      "texto": "Hola,\n\nTe escribo solo por si se perdió el correo del miércoles.\n\nMe quedaban dos cosas para poder pasarlo a los clientes:\n\n- Casinos, apuestas, erótico y citas no, y CBD sí. ¿Qué pasa con criptomonedas y forex? Son las dos que más nos piden.\n- ¿El artículo queda publicado de forma permanente, o se retira pasado un tiempo?\n\nCon esas dos cierro la ficha.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "cocinarvegano@gmail.com",
+        "ok",
+        "D3725"
+      ],
+      "Contacto extra": [
+        "aitorruiz93@gmail.com",
+        "wait",
+        "E3725"
+      ],
+      "Nombre": [
+        null,
+        "plain",
+        "F3725"
+      ],
+      "Casino": [
+        null,
+        "no",
+        "U3725"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V3725"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W3725"
+      ],
+      "CBD": [
+        "35",
+        "ok",
+        "X3725"
+      ],
+      "Dating": [
+        null,
+        "no",
+        "Y3725"
+      ],
+      "General": [
+        "35",
+        "ok",
+        "Z3725"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3725"
+      ],
+      "Permanencia": [
+        null,
+        "wait",
+        "AI3725"
+      ]
+    },
+    "pendiente": [
+      "¿Cripto y forex entran?",
+      "¿La publicación es permanente?",
+      "Confirmar quién es el contacto bueno de los dos"
+    ]
+  },
+  {
+    "id": "herencia",
+    "medios": [
+      "herencia.net"
+    ],
+    "estado": "ok",
+    "turno": "nuestra",
+    "destinatario": "angel.carrero@colorvivo.com",
+    "hilo": {
+      "asunto": "RE: Posible colaboración para artículos ",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-04T06:48:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-03T16:38:56Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Colorvivo · 144 € · cripto/forex/CBD confirmados 04/09",
+    "aviso": "El descuento de agencia no se registra como precio hasta que lo confirme por escrito. En la hoja se queda 144 € y el 20 % va a notas del admin.",
+    "suUltimoCorreo": "Buenos dias Simon,\n\nEl tema de criptomonedas y Forex si que los aceptamos. En el tema del CBD depende de como se trate el texto y el tipo de enlace. Si es un enlace hacia productos elaborados con CBD, se podria publicar, pero si es enlaces hacia semillas de marihuana, o temas relacionados con su cultivo, no lo podriamos publicar.\n\nEn estas tres tematicas, el precio es un poco mas elevado. Seria 170 EUR + iva, pero habria que aplicar el 20% de descuento que te comente.\n\nSaludos",
+    "borrador": {
+      "nombre": "Cierre con el precio nuevo",
+      "texto": "Hola Ángel,\n\nGracias por concretarlo. Lo tengo anotado así, y corrígeme si me equivoco en algo:\n\n- Contenido general: 144 € más IVA, ya con el 20 % de agencia aplicado\n- Criptomonedas, forex y CBD: 170 € más IVA, también con el 20 % de agencia\n- En CBD, entra el enlace a productos elaborados con CBD, y no entra el enlace a semillas de marihuana ni a nada de cultivo\n\nUna sola cosa antes de cerrar: los 170 € son ya con el descuento aplicado, o son 170 € de tarifa y sobre eso se aplica el 20 %? Es la diferencia entre 170 y 136, y prefiero preguntártelo a suponerlo.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "redaccion@herencia.net",
+        "ok",
+        "D3677"
+      ],
+      "Contacto extra": [
+        "angel.carrero@colorvivo.com",
+        "ok",
+        "E3677"
+      ],
+      "Nombre": [
+        null,
+        "plain",
+        "F3677"
+      ],
+      "Casino": [
+        null,
+        "no",
+        "U3677"
+      ],
+      "Cripto": [
+        "144",
+        "ok",
+        "V3677"
+      ],
+      "Forex": [
+        "144",
+        "ok",
+        "W3677"
+      ],
+      "CBD": [
+        "144",
+        "ok",
+        "X3677"
+      ],
+      "Dating": [
+        null,
+        "no",
+        "Y3677"
+      ],
+      "General": [
+        "144",
+        "ok",
+        "Z3677"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3677"
+      ],
+      "Permanencia": [
+        "2 Years",
+        "wait",
+        "AI3677"
+      ]
+    },
+    "pendiente": [
+      "Cripto (V), forex (W) y CBD (X): no se nombran. «Drogas» es demasiado vago para dar CBD por rechazado",
+      "Permanencia (AI): no la menciona en ningún correo",
+      "Confirmar que el 20% de descuento de agencia deja el precio en 115,20 €"
+    ]
+  },
+  {
+    "id": "lloretgaceta",
+    "medios": [
+      "lloretgaceta.com",
+      "lafabricadelassonrisas.com",
+      "indoorlloret.com",
+      "lloretcoin.com"
+    ],
+    "estado": "ok",
+    "turno": "nuestra",
+    "destinatario": "info@lloretgaceta.com",
+    "hilo": {
+      "asunto": "RE: Oportunidad de colaboración editorial",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-03T16:53:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-03T16:39:16Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "La Fábrica de las Sonrisas · 3 webs más",
+    "aviso": "DECIDIR ANTES DE ENVIAR. Su frase, literal: «Las noticias desaparecen de toda la web, todo desaparece, noticia, textos, foto y enlaces». A los 30 días no queda ni la URL. Eso NO es un enlace permanente y no se puede vender como tal a ningún cliente de link building: solo sirve para quien busque visibilidad de un mes. Decide si el medio entra en la oferta antes de mandar el borrador.",
+    "suUltimoCorreo": "Las paginas web son:\n\nwww.lafabricadelassonrisas.com\n\nwww.indoorlloret.com\n\nwww.lloretcoin.com\n\nLas noticias desaparecen de toda la web, todo desaparece, noticia, textos, foto y enlaces",
+    "borrador": {
+      "nombre": "Solo tras decidir · leer el aviso rojo",
+      "texto": "Hola,\n\nGracias por los tres dominios: lafabricadelassonrisas.com, indoorlloret.com y lloretcoin.com. Los dejo apuntados.\n\nY gracias por ser claro con la permanencia. Te lo confirmo para que no haya malentendidos: entiendo que a los 30 días se retira el artículo entero, con texto, foto y enlaces, y que la URL deja de existir.\n\nCon eso, lo que hacemos es esto: la mayoría de nuestros clientes necesita el enlace publicado de forma indefinida, así que para ellos no encaja. Te escribo cuando tenga uno que busque visibilidad puntual, que también los hay.\n\n¿Los 70 € son los mismos en los tres dominios nuevos?\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "info@lloretgaceta.com",
+        "ok",
+        "D3428"
+      ],
+      "Nombre": [
+        null,
+        "plain",
+        "F3428"
+      ],
+      "Casino": [
+        "70",
+        "ok",
+        "U3428"
+      ],
+      "Cripto": [
+        "70",
+        "ok",
+        "V3428"
+      ],
+      "Forex": [
+        "70",
+        "ok",
+        "W3428"
+      ],
+      "CBD": [
+        "70",
+        "ok",
+        "X3428"
+      ],
+      "Dating": [
+        "70",
+        "ok",
+        "Y3428"
+      ],
+      "General": [
+        "70",
+        "ok",
+        "Z3428"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3428"
+      ],
+      "Permanencia": [
+        "30 días",
+        "ok",
+        "AI3428"
+      ]
+    },
+    "pendiente": [
+      "Permanencia (AI): a los 30 días, ¿se retira la URL o solo sale de portada?",
+      "Los dominios de sus otras 3 webs, para crearles fila"
+    ]
+  },
+  {
+    "id": "geriatricarea",
+    "medios": [
+      "geriatricarea.com",
+      "profesionalhoreca.com",
+      "tecnovino.com"
+    ],
+    "estado": "ok",
+    "turno": "nuestra",
+    "destinatario": "redaccion@geriatricarea.com",
+    "hilo": {
+      "asunto": "RE: Posible colaboración a largo plazo",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-04T05:06:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-03T16:39:35Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Alberto Domingo · 250 € dofollow",
+    "aviso": "",
+    "suUltimoCorreo": "Hola Simon,\n\nLas condiciones de publicacion son las mismas para nuestres tres site, pero los contactos diferentes para cada site:\n\nredaccion@geriatricarea.com\nredaccion@profesionalhoreca.com\nredaccion@tecnovino.com",
+    "borrador": {
+      "nombre": "Cierre",
+      "texto": "Hola,\n\nPerfecto, con eso lo tengo cerrado. Anotado que las condiciones son las mismas en los tres medios y que cada uno lleva su propio contacto:\n\n- geriatricarea.com, por redaccion@geriatricarea.com\n- profesionalhoreca.com, por redaccion@profesionalhoreca.com\n- tecnovino.com, por redaccion@tecnovino.com\n\nY las condiciones: 250 €, enlace dofollow, artículo permanente, con portada y newsletter, y pago por transferencia.\n\nCuando tenga un artículo para cualquiera de los tres, escribo directamente al contacto que corresponda.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "redaccion@geriatricarea.com",
+        "ok",
+        "D2970"
+      ],
+      "Contacto extra": [
+        "redaccion@profesionalhoreca.com",
+        "plain",
+        "E2970"
+      ],
+      "Nombre": [
+        "Alberto Domingo",
+        "ok",
+        "F2970"
+      ],
+      "Casino": [
+        null,
+        "no",
+        "U2970"
+      ],
+      "Cripto": [
+        null,
+        "no",
+        "V2970"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W2970"
+      ],
+      "CBD": [
+        null,
+        "no",
+        "X2970"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y2970"
+      ],
+      "General": [
+        "250",
+        "ok",
+        "Z2970"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH2970"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI2970"
+      ]
+    },
+    "pendiente": [
+      "Contacto (D): confirmar si publicidad se lleva desde redaccion@geriatricarea.com"
+    ]
+  },
+  {
+    "id": "alsoldelacosta",
+    "medios": [
+      "alsoldelacosta.com"
+    ],
+    "estado": "no",
+    "turno": "acuse",
+    "destinatario": "fractor12@hotmail.com",
+    "hilo": {
+      "asunto": "RE: Consulta sobre publicaciones",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-26T13:45:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-26T13:13:44Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "Francisco Acedo · acuerdo cerrado",
+    "aviso": "lapreferente.com (fila 2791) tiene el mismo contacto y precios distintos —125 € en casi todo y 200 € en dating— que no salen de ningún correo leído. Él firma como director de Al Sol de la Costa. Un dominio confirmado no confirma a su hermano: esa fila sigue sin verificar.",
+    "suUltimoCorreo": "Hola Mauricio\nOk.\nCerramos el acuerdo con vosotros\nA ver si llegan pedidos\nUn saludo y seguimos en contacto, Francisco",
+    "borrador": {
+      "nombre": "Nada que preguntar",
+      "texto": "Hola Francisco,\n\nTodo anotado y cerrado por nuestra parte: 85 € el artículo estándar, 110 € en CBD, casinos, juego y cripto, 125 € forex y 150 € citas. Mínimo 400 palabras con una foto, hasta tres enlaces dofollow, sin etiqueta de patrocinado, contenido permanente y pago por PayPal o Wise.\n\nTe escribo en cuanto tenga el primer pedido.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "info@alsoldelacosta.com",
+        "ok",
+        "D1122"
+      ],
+      "Contacto extra": [
+        "fractor12@hotmail.com",
+        "ok",
+        "E1122"
+      ],
+      "Nombre": [
+        "Francisco",
+        "wait",
+        "F3394"
+      ],
+      "Casino": [
+        "110",
+        "ok",
+        "U3394"
+      ],
+      "Cripto": [
+        "110",
+        "ok",
+        "V3394"
+      ],
+      "Forex": [
+        "125",
+        "ok",
+        "W3394"
+      ],
+      "CBD": [
+        "110",
+        "ok",
+        "X3394"
+      ],
+      "Dating": [
+        "150",
+        "ok",
+        "Y3394"
+      ],
+      "General": [
+        "85",
+        "ok",
+        "Z3394"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3394"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI3394"
+      ]
+    },
+    "pendiente": []
+  },
+  {
+    "id": "diariosigloxxi",
+    "medios": [
+      "diariosigloxxi.com"
+    ],
+    "estado": "ok",
+    "turno": "nuestra",
+    "destinatario": "publicidad@diariosigloxxi.com",
+    "hilo": {
+      "asunto": "RE: Posible colaboración para artículos",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-31T15:28:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-28T15:32:12Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "Cristina H. · ya contestó todo",
+    "aviso": "Es el segundo caso de la tanda donde la pregunta ya estaba contestada. Antes de escribir a un medio que ya dio precio, hay que mirar si contestó en los últimos días.",
+    "suUltimoCorreo": "Hola,\n\nAceptamos todos los nichos y los precios son los mismos. Los articulos son permanentes y no usamos etiquetas de patrocinado.\n\nUn saludo,\n\nCristina H.\n\nDiario Siglo XXI",
+    "borrador": {
+      "nombre": "Cierre",
+      "texto": "Hola Cristina,\n\nPerfecto, con eso lo tengo cerrado: todos los nichos entran y al mismo precio, artículo permanente y sin etiqueta de patrocinado.\n\nTe escribo con el primer artículo en cuanto tenga un cliente que encaje.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "publicidad@diariosigloxxi.com",
+        "ok",
+        "D1408"
+      ],
+      "Contacto extra": [
+        "redaccion@viajesylugares.com",
+        "care",
+        "E1408"
+      ],
+      "Nombre": [
+        "Guillermo Peris",
+        "wait",
+        "F2912"
+      ],
+      "Casino": [
+        "80",
+        "ok",
+        "U2912"
+      ],
+      "Cripto": [
+        "80",
+        "ok",
+        "V2912"
+      ],
+      "Forex": [
+        "80",
+        "ok",
+        "W2912"
+      ],
+      "CBD": [
+        "80",
+        "ok",
+        "X2912"
+      ],
+      "Dating": [
+        "80",
+        "ok",
+        "Y2912"
+      ],
+      "General": [
+        "80",
+        "ok",
+        "Z2912"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH2912"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI2912"
+      ]
+    },
+    "pendiente": []
+  },
+  {
+    "id": "madridpress",
+    "medios": [
+      "madridpress.com"
+    ],
+    "estado": "no",
+    "turno": "suya",
+    "destinatario": "madridpress@madridpress.com",
+    "hilo": {
+      "asunto": "RE: Oportunidad de colaboración editorial",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-27T17:34:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-28T15:27:43Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "ya contestaron todo",
+    "aviso": "Este era el peor de los ocho: las tres preguntas ya estaban contestadas hace cuatro días y encima el hilo lo cerramos nosotros.",
+    "suUltimoCorreo": "El precio de un articulo general es 100 EUR\nAceptamos todos\nEl enlace es Do-Follow\nEl articulo tendra una publicacion permanente salvo circunstancias excepcionales\nLa etiqueta es Remitido",
+    "borrador": {
+      "nombre": "Cierre con dos matices",
+      "texto": "Hola,\n\nGracias, con eso lo tengo casi cerrado: 100 € el artículo general, aceptáis todas las temáticas, enlace dofollow y publicación permanente.\n\nDos matices que necesito dejar claros por escrito, porque son los que preguntan los clientes:\n\n- La etiqueta «Remitido». ¿Aparece visible dentro del artículo, o es solo el nombre de la sección donde se publica?\n- «Permanente salvo circunstancias excepcionales». ¿Qué circunstancias serían? Lo pregunto para poder decírselo al cliente tal cual, sin adornos.\n\nY si tenéis algún otro dominio con el que se pueda colaborar, pásamelo y lo dejo apuntado.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "madridpress@madridpress.com",
+        "ok",
+        "D3282"
+      ],
+      "Nombre": [
+        null,
+        "wait",
+        "F3282"
+      ],
+      "Casino": [
+        "150",
+        "ok",
+        "U3282"
+      ],
+      "Cripto": [
+        "100",
+        "ok",
+        "V3282"
+      ],
+      "Forex": [
+        "100",
+        "ok",
+        "W3282"
+      ],
+      "CBD": [
+        "100",
+        "ok",
+        "X3282"
+      ],
+      "Dating": [
+        "100",
+        "ok",
+        "Y3282"
+      ],
+      "General": [
+        "100",
+        "ok",
+        "Z3282"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3282"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI3282"
+      ]
+    },
+    "pendiente": []
+  },
+  {
+    "id": "quepasa",
+    "medios": [
+      "quepasa.com.ve"
+    ],
+    "estado": "ok",
+    "turno": "suya",
+    "destinatario": "direcciongeneral@quepasa.com.ve",
+    "hilo": {
+      "asunto": "RE: Consulta sobre colaboración editorial",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-20T11:24:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-25T15:31:00Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "Pedro Pablo · 54/75 € · esperando forex y paquetes",
+    "aviso": "Contacto ya escaldado por estafas previas. Es el que peor encajaría una pregunta repetida.",
+    "suUltimoCorreo": "SaludoMauricio!\n\nComplacidos que nos tomen en cuenta.\n\nPero, primero, permitanos hacerles la siguiente consideracion:\n\nLamentablemente ya hemos sido victimas de varias estafas en este rubro de negocios y como consecuencia de esto, no estamos realizando el trabajo ni la publicacion antes de recibir el pago completo.\n\nLas notas se publican sin la etiqueta de publireportaje/nota patrocinada?\nCorrecto, las publicamos como una noticia mas de nuestra Sala de Redaccion\n\nManejan precios de paquetes?\nSi, podemos conversarlo\n\nEl tiempo de publicacion es ilimitado? en el Home?\nEn el Home no, despues que salga de nuestro home (24hrs), va a la seccion que le corresponda de acuerdo al tema y ahi, SI queda por tiempo ilimitado.\n\nAceptan do follow links?\nSi, hasta tres. Tambien en articulos ya publicados por 16,25 (incluye comision PayPal) los tres\n\nCuanto es el monto que solicitan o cobran por cada articulo?\n75 EUR (incluye comision PayPal) por articulo sobre casinos o juegos de azar o en linea, criptomonedas o empresas financieras o bancarias\n54 EUR (incluye comision PayPal) para oros temas.\n12 EUR adicionales por nuestra redaccion de una articulo de hasta 500 palabras.\n\nInsertan vinculos en articulos ya publicados?\nSi, por un valor de 13 EUR (incluye comision PayPal) por vinculo\n\nAceptan pagos directos por Paypal?\nSi, a traves de direcciongeneral@quepasa.com.ve\n\nAceptan temas de apuestas?\nSi\n\nTemas sensibles\nProstitucion, casa de citas, consumo de sustancias prohibidas (incluye marihuana)\n\nQuedo atento a sus comentarios\n\nTenga un buen dia\n\nPedro Pablo\nDirector General\nQue Pasa",
+    "borrador": {
+      "nombre": "Recordatorio · solo si tardan",
+      "texto": "Hola Pedro Pablo,\n\nRetomo el hilo de agosto. Quedaron las condiciones registradas por nuestra parte: 54 € el artículo general y 75 € en casinos, juegos de azar, criptomonedas y financiero, 12 € más si lo redactáis vosotros, hasta tres enlaces dofollow, 24 horas en portada y después permanencia ilimitada en su sección, sin etiqueta de publirreportaje, y pago íntegro por adelantado por PayPal.\n\nDos cosas que no llegamos a cerrar:\n\n- ¿Forex entra en los 75 € del bloque financiero, o va aparte?\n- Mencionabas precios de paquetes. Si os comprometemos varias publicaciones al mes, ¿qué precio saldría?\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "redaccion@quepasa.com.ve",
+        "ok",
+        "D5104"
+      ],
+      "Contacto extra": [
+        "direcciongeneral@quepasa.com.ve",
+        "ok",
+        "E5104"
+      ],
+      "Nombre": [
+        "Pedro Pablo",
+        "ok",
+        "F5395"
+      ],
+      "Casino": [
+        "75",
+        "ok",
+        "U5395"
+      ],
+      "Cripto": [
+        "75",
+        "ok",
+        "V5395"
+      ],
+      "Forex": [
+        "75",
+        "ok",
+        "W5395"
+      ],
+      "CBD": [
+        null,
+        "no",
+        "X5395"
+      ],
+      "Dating": [
+        null,
+        "no",
+        "Y5395"
+      ],
+      "General": [
+        "54",
+        "ok",
+        "Z5395"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "plain",
+        "AH5395"
+      ],
+      "Permanencia": [
+        "permanent",
+        "plain",
+        "AI5395"
+      ]
+    },
+    "pendiente": []
+  },
+  {
+    "id": "exatron",
+    "medios": [
+      "lacalle.com.ve",
+      "sandyaveledo.net",
+      "radioamerica.com.ve",
+      "tuflashnews.com",
+      "unpitazo.com",
+      "reportandonews.com",
+      "aguacatenews.com"
+    ],
+    "estado": "care",
+    "turno": "nuestra",
+    "destinatario": "seo@exatronclouds.com",
+    "hilo": {
+      "asunto": "RE: Consulta sobre colaboración editorial",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-03T16:44:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-03T16:39:57Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Confirmados forex y dating 03/09 · pendiente propiedad webs",
+    "aviso": "El precio de la ficha es el de lacalle.com.ve. Los otros seis dominios tienen precios distintos y no están en la hoja.",
+    "suUltimoCorreo": "Dos cosas para poder cerrarlo:\n\n- Aceptais forex y dating, y a que precio? En la lista aparece \"finance\", pero forex y citas no se nombran.\n\nSi aceptamos!!! Si finance es eso! Es categoria sensible\n\n- Los siete sitios son vuestros, o hay alguno que gestioneis para un tercero? Lo pregunto porque trabajamos siempre con el medio directo.\n\nSi trabajamos directo! Nos encargamos de todo!",
+    "borrador": {
+      "nombre": "Una sola pregunta",
+      "texto": "Hola,\n\nPerfecto, con eso resuelvo lo importante: forex y citas entran dentro de la categoría sensible, y los siete sitios los lleváis vosotros directamente.\n\nMe queda solo la cifra. En vuestra lista veo 50 € la inserción en artículo existente, 100 € gaming, CBD y finance, y 150 € casino como categoría especial.\n\n¿Forex y citas van en los 100 € del bloque finance, o tienen la tarifa de 150 € de categoría especial? Es lo único que me falta para cerrar la ficha y poder ofrecerlo.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "seo@exatronclouds.com",
+        "ok",
+        "D5369"
+      ],
+      "Nombre": [
+        null,
+        "plain",
+        "F5369"
+      ],
+      "Casino": [
+        "150",
+        "ok",
+        "U5369"
+      ],
+      "Cripto": [
+        "100",
+        "ok",
+        "V5369"
+      ],
+      "Forex": [
+        "100",
+        "ok",
+        "W5369"
+      ],
+      "CBD": [
+        "100",
+        "ok",
+        "X5369"
+      ],
+      "Dating": [
+        "100",
+        "ok",
+        "Y5369"
+      ],
+      "General": [
+        "50",
+        "ok",
+        "Z5369"
+      ],
+      "Etiqueta": [
+        "ninguna",
+        "ok",
+        "AG5369"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH5369"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI5369"
+      ]
+    },
+    "pendiente": [
+      "Forex (columna W) y dating (columna Y): no se nombran. Dice «finance», que no es forex",
+      "Confirmar si los siete sitios son suyos o de terceros, antes de comprar"
+    ]
+  },
+  {
+    "id": "elimpulso",
+    "medios": [
+      "elimpulso.com"
+    ],
+    "estado": "ok",
+    "turno": "nuestra",
+    "destinatario": "mercadeo.elimpulso@gmail.com",
+    "hilo": {
+      "asunto": "RE: Propuesta de colaboración",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-03T16:49:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-03T16:40:29Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Jéssica Oshiro · ficha completa, sin contestar",
+    "aviso": "",
+    "suUltimoCorreo": "Hola, Simón\nGusto en saludarte\n\nNo se te escapa nada, está correcta la información y se mantiene igual.\n\nQuedamos a la orden.\n\nFeliz día",
+    "borrador": {
+      "nombre": "Cierre",
+      "texto": "Hola,\n\nPerfecto, gracias por confirmarlo. Queda cerrado tal cual: 150 $ por PayPal por adelantado, factura si hace falta, hasta seis enlaces dofollow, artículo permanente y sin etiqueta de patrocinado, casino, cripto y forex dentro, CBD y citas fuera, máximo 5.000 caracteres y seis fotos, solo en español y en la sección Pulso Empresarial.\n\nAnotado también que el artículo os llega con un día de antelación para que lo revise Redacción.\n\nTe escribo con el primero en cuanto tenga un cliente que encaje.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "ventas@elimpulso.com",
+        "ok",
+        "D1596"
+      ],
+      "Contacto extra": [
+        "mercadeo.elimpulso@gmail.com",
+        "ok",
+        "E1596"
+      ],
+      "Nombre": [
+        "Jéssica Oshiro",
+        "ok",
+        "F5378"
+      ],
+      "Casino": [
+        "150",
+        "ok",
+        "U5378"
+      ],
+      "Cripto": [
+        "150",
+        "ok",
+        "V5378"
+      ],
+      "Forex": [
+        "150",
+        "ok",
+        "W5378"
+      ],
+      "CBD": [
+        null,
+        "no",
+        "X5378"
+      ],
+      "Dating": [
+        null,
+        "no",
+        "Y5378"
+      ],
+      "General": [
+        "150",
+        "ok",
+        "Z5378"
+      ],
+      "Etiqueta": [
+        "ninguna",
+        "ok",
+        "AG5378"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH5378"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI5378"
+      ]
+    },
+    "pendiente": []
+  },
+  {
+    "id": "ultimasnoticias",
+    "medios": [
+      "ultimasnoticias.com.ve",
+      "liderendeportes.com"
+    ],
+    "estado": "care",
+    "turno": "suya",
+    "destinatario": "avisos@ultimasnoticias.com.ve",
+    "hilo": {
+      "asunto": "RE: Posible colaboración de contenido",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-18T16:45:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-19T17:09:03Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "Johan Andrades · lleva etiqueta «CONTENIDO EXTERNO»",
+    "aviso": "ESPERANDO SU RESPUESTA. Nuestro último correo salió el 2026-08-19 desde mauro@, o sea que la pelota es suya. El borrador de al lado es un RECORDATORIO para dentro de unos días, no un correo nuevo: mandarlo ahora es escribirles dos veces seguidas. · No pintes esta ficha como un enlace limpio: va con etiqueta de contenido externo confirmada por escrito.",
+    "suUltimoCorreo": "Hello, thank you for contacting us.\n\nThe price of sponsored articles is USDs 180 at ultimasnoticias.com.ve; we also manage liderendeportes.com USDs 180.\n\nWe do not insert links in published articles.\n\nThe articles that you wish to spread are evaluated and approved by the editorial staff of the brand Ultimas Noticias, have the label EXTERNAL CONTENT and are published in the Business section, the links will be dofollow and permanent.\n\nImportant: We do not publish articles with sexual content, economic, political, weapons, crypto, cloud mining, CBD or that make reference to these.\n\nOnce canceled and sent the proof of payment we publish the article.\n\nIf you have any questions or information, I am at your service.\n\nBest regards.\n\nJohan Andrades Infante",
+    "borrador": {
+      "nombre": "Recordatorio · solo si tardan",
+      "texto": "Hola Johan,\n\nGracias por la información y perdona la tardanza.\n\nTengo anotado: 180 $ por artículo en ultimasnoticias.com.ve y otros 180 $ en liderendeportes.com, publicación en la sección de Negocios, con etiqueta EXTERNAL CONTENT, y fuera contenido sexual, político, de armas, cripto, cloud mining y CBD.\n\nMe queda una duda concreta, y es la que me van a preguntar los clientes. Dices dos cosas que quiero encajar bien:\n\n- «No insertamos enlaces en artículos publicados», que entiendo que significa que no añadís enlaces a artículos que ya estaban online.\n- «Los enlaces serán dofollow y permanentes», que entiendo que se refiere al artículo nuevo que os enviamos.\n\n¿Lo he entendido bien? O sea, en un artículo nuevo, el enlace a la web del cliente va dofollow y se queda. Con eso cierro la ficha.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "redaccion@ultimasnoticias.com.ve",
+        "ok",
+        "D5342"
+      ],
+      "Contacto extra": [
+        "avisos@ultimasnoticias.com.ve",
+        "ok",
+        "E5342"
+      ],
+      "Nombre": [
+        "Johan Andrades Infante",
+        "ok",
+        "F5357"
+      ],
+      "Casino": [
+        null,
+        "wait",
+        "U5357"
+      ],
+      "Cripto": [
+        null,
+        "no",
+        "V5357"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W5357"
+      ],
+      "CBD": [
+        null,
+        "no",
+        "X5357"
+      ],
+      "Dating": [
+        null,
+        "no",
+        "Y5357"
+      ],
+      "General": [
+        "180",
+        "ok",
+        "Z5357"
+      ],
+      "Etiqueta": [
+        "CONTENIDO EXTERNO",
+        "ok",
+        "AG5357"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH5357"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI5357"
+      ]
+    },
+    "pendiente": [
+      "Casino (U) y forex (W): no se nombran",
+      "Etiqueta (AG): preguntar si hay modalidad sin «CONTENIDO EXTERNO»"
+    ]
+  },
+  {
+    "id": "etrujillo",
+    "medios": [
+      "harleyclasica.es",
+      "miscochesclasicos.com",
+      "estebantrujillo.com"
+    ],
+    "estado": "care",
+    "turno": "suya",
+    "destinatario": "etrujilloq@gmail.com",
+    "hilo": {
+      "asunto": "RE: Consulta sobre colaboración editorial",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-19T15:13:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-21T15:57:00Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "Tres webs de coches clásicos · 15–20 €",
+    "aviso": "El precio de la ficha es el de harleyclasica.es. Los otros dos son más baratos y tienen fila propia.",
+    "suUltimoCorreo": "Estimado Sr/sra:\n\n        Gracias por su oferta de colaboracion.\n\nDispongo de tres paginas webs en las que puedo publicar articulos patrocinados con links Do Follow.\n\nLos articulos permaneceran en las paginas web de manera permanente.\nLos articulos van enlazados desde la home.\nLos articulos NO apareceran etiquetados como patrocinados.\nLos articulos estaran redactados en Espanol y suelen tener una extension de 1.000 palabras.\nNo utilizo inteligencia artificial. Es redaccion completamente original.\n\nTemas no admitidos: pornografia, religion, politica\nTemas especiales a negociar: casinos, apuestas, citas, criptos\n\nMIS PAGINAS WEB:\n\nhttps://www.harleyclasica.es\n        Precio del articulo: 20 euros ya redactado  (si lo redacto yo, serian 30 euros)\n        DA: 29, 4.800 links\n\nhttps://miscochesclasicos.com\n         Precio del articulo: 15 euros ya redactado  (si lo redacto yo, serian 25 euros)\n         DA: 18, 2.000 links\n\nhttps://estebantrujillo.com\n        Precio del articulo: 20 euros ya redactado  (si lo redacto yo, serian 25 euros)\n        DA: 15, 2.800 links\n\n        Aceptaria cobrar por PayPal o por Bizum y podria emitir recibo de pago. No tengo codigo de actividades economicas por lo cual no puedo emitir factura con IVA.\n\n        Quedo a su disposicion para cualquier tema o aclaracion al respecto.\n\nUn cordial saludo.",
+    "borrador": {
+      "nombre": "Recordatorio · precios de sensibles",
+      "texto": "Hola Esteban,\n\nRetomo el hilo de agosto. Tengo anotado: harleyclasica.es 20 €, miscochesclasicos.com 15 € y estebantrujillo.com 20 €, con el artículo ya redactado por nuestra parte, enlace dofollow, permanente, enlazado desde la home y sin etiqueta de patrocinado.\n\nDos cosas para poder trabajar contigo:\n\n- Casinos, apuestas, citas y criptos los dejabas como «temas especiales a negociar». ¿Qué precio tendrían en cada una de las tres webs? Es lo que más nos piden, así que necesito la cifra para poder ofrecerlo.\n- Sobre el pago: entiendo que sería recibo por PayPal o Bizum, sin factura con IVA. Lo estamos cuadrando por aquí y te confirmo.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "etrujilloq@gmail.com",
+        "ok",
+        "D3613"
+      ],
+      "Nombre": [
+        null,
+        "plain",
+        "F3613"
+      ],
+      "Casino": [
+        null,
+        "wait",
+        "U3613"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V3613"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W3613"
+      ],
+      "CBD": [
+        null,
+        "wait",
+        "X3613"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y3613"
+      ],
+      "General": [
+        "20",
+        "ok",
+        "Z3613"
+      ],
+      "Etiqueta": [
+        "ninguna",
+        "ok",
+        "AG3613"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3613"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI3613"
+      ]
+    },
+    "pendiente": [
+      "Precio de casino (U), cripto (V) y dating (Y) en cada uno de los tres sitios: los dejó «a negociar»",
+      "Forex (W) y CBD (X): no se nombran"
+    ]
+  },
+  {
+    "id": "seekingdog",
+    "medios": [
+      "unbuendiaenmadrid.com",
+      "unbuendiaenbarcelona.com",
+      "despedidasmolamola.com",
+      "tufiestamolamazo.com",
+      "unbuendiaenzaragoza.com",
+      "cervezamastapapormadrid.com",
+      "ocioenvalencia.es"
+    ],
+    "estado": "care",
+    "turno": "suya",
+    "destinatario": "hola@seekingdog.com",
+    "hilo": {
+      "asunto": "RE: Oportunidad de colaboración editorial",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-19T17:09:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-24T13:45:00Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "Siete webs de ocio · +75 € en casino y cripto",
+    "aviso": "Ojo con el recargo: el precio de casino y cripto depende del dominio, porque son 75 € sobre la base de cada uno.",
+    "suUltimoCorreo": "Hola,\nComo estas?\n\nAqui te dejo toda la informacion.\n\nNuestras tarifas para un articulo redactado por vosotros, con dos enlaces dofollow, integrado en la web y sin la categoria de patrocinado, son las siguientes:\n- 200 EUR para unbuendiaenmadrid.com\n- 200 EUR para unbuendiaenbarcelona.com\n- 175 EUR para https://despedidasmolamola.com/\n- 175 EUR para https://www.tufiestamolamazo.com/\n- 150 EUR para unbuendiaenzaragoza.com\n- 150 EUR para cervezamastapapormadrid.com\n- 150 EUR para https://ocioenvalencia.es/\n\nPara los enlaces a paginas de crypto, apuestas o casinos son 75 EUR extra.\nSi nosotros hacemos la redaccion, son 100 EUR mas por articulo.\n*Unbuendiaenmadrid.com no acepta enlaces de casino actualmente. Es la unica.\n\nLa extension del articulo: minimo 400 palabras y maximo 5 imagenes.\n\nLa seccion donde se publica es en la categoria \"otros\", y sale en la home de la pagina web.\nNo permitimos publicar enlaces en articulos ya hechos.\n\nPuede ser un pago por paypal o por transferencia.\nNo pasa nada con facturar fuera de Espana.\n\nEl banner cuesta 800 EUR mensuales.\n\nYa me dices si te interesa.\nUn saludo.",
+    "borrador": {
+      "nombre": "Recordatorio · llevan 11 días",
+      "texto": "Hola,\n\nTe escribo por si se perdió el correo del 24 de agosto.\n\nNos interesa la colaboración, y tengo las tarifas anotadas: 200 € unbuendiaenmadrid.com y unbuendiaenbarcelona.com, 175 € despedidasmolamola.com y tufiestamolamazo.com, 150 € unbuendiaenzaragoza.com, cervezamastapapormadrid.com y ocioenvalencia.es. Más 75 € en cripto, apuestas y casinos, y 100 € si redactáis vosotros.\n\nLo que me falta:\n\n- Forex, CBD y webs de citas no aparecen en la lista. ¿Entran con el mismo recargo de 75 €, o quedan fuera?\n- ¿El artículo se queda publicado de forma indefinida?\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "hola@seekingdog.com",
+        "ok",
+        "D2812"
+      ],
+      "Nombre": [
+        null,
+        "plain",
+        "F2812"
+      ],
+      "Casino": [
+        null,
+        "no",
+        "U2812"
+      ],
+      "Cripto": [
+        "275",
+        "ok",
+        "V2812"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W2812"
+      ],
+      "CBD": [
+        null,
+        "wait",
+        "X2812"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y2812"
+      ],
+      "General": [
+        "200",
+        "ok",
+        "Z2812"
+      ],
+      "Etiqueta": [
+        "ninguna",
+        "ok",
+        "AG2812"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH2812"
+      ],
+      "Permanencia": [
+        null,
+        "wait",
+        "AI2812"
+      ]
+    },
+    "pendiente": [
+      "Forex (W), CBD (X) y dating (Y): no se nombran, y hay que preguntar si llevan el recargo de 75 €",
+      "Permanencia (AI): no la dice en ningún correo"
+    ]
+  },
+  {
+    "id": "galiciainfo",
+    "medios": [
+      "galicia.info",
+      "riasbaixas.info",
+      "riasaltas.info",
+      "ourense.info",
+      "santiago.info",
+      "aribeirasacra.info",
+      "acostaamorte.info",
+      "terrasdelugo.info",
+      "islascies.eu"
+    ],
+    "estado": "care",
+    "turno": "suya",
+    "destinatario": "prensa@galicia.info",
+    "hilo": {
+      "asunto": "RE: Propuesta de colaboración",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-20T16:14:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-25T15:24:00Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "Ángela Falque · 9 portales, dos direcciones que se contradicen",
+    "aviso": "No pintes la etiqueta en verde: hay dos versiones del mismo correo y una de ellas dice que el artículo va etiquetado.",
+    "suUltimoCorreo": "Buenos dias, Mauricio\n\nEn primer lugar, gracias por ponerte en contacto con nosotros.\nEstaremos encantados de trabajar juntos.\n\nLas condiciones para publicar con nosotros son:\n\n- Precio: 190 EUR (SIN IVA). Por articulo promocional.\n- Hasta tres enlaces do-follow por publicacion.\n- Permanencia en web minima de 3 anos.\n- Etiqueta de patrocinio discreta dentro del articulo.\n- Tematica a escoger por el cliente (no aceptamos casinos sin licencia en Espana, temas sobre drogas, ni sexualidad explicita)\n- Pago via PayPal previa su publicacion.\n\nLos Geodestinos disponibles para publicar son:\n\nwww.riasbaixas.info\nwww.riasaltas.info\nwww.galicia.info\nwww.ourense.info\nwww.santiago.info\nwww.aribeirasacra.info\nwww.acostaamorte.info\nwww.terrasdelugo.info\nwww.islascies.eu\n\nQuedo a la espera de su respuesta.\n\nUn saludo,",
+    "borrador": {
+      "nombre": "Recordatorio · elegir un geodestino",
+      "texto": "Hola,\n\nRetomo el hilo de agosto, y perdona que en su momento os llegara el mismo correo a dos direcciones distintas, prensa@ y geodestinos@: fue un fallo nuestro y ya está corregido. Seguimos por aquí.\n\nTengo las condiciones anotadas: 190 € sin IVA por artículo promocional, hasta tres enlaces dofollow, etiqueta de patrocinio discreta dentro del artículo, pago por PayPal antes de publicar, y fuera casinos sin licencia en España, drogas y sexualidad explícita.\n\nDos cosas antes de mandaros el primer artículo:\n\n- Dices «permanencia en web mínima de 3 años». Pasados los tres años, ¿el artículo se retira, o simplemente deja de estar garantizado? Nuestros clientes necesitan el enlace publicado de forma indefinida.\n- Casinos CON licencia en España sí entran, entiendo. ¿Y criptomonedas, forex y CBD?\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "prensa@galicia.info",
+        "ok",
+        "D3610"
+      ],
+      "Contacto extra": [
+        "geodestinos@galicia.info",
+        "ok",
+        "E3610"
+      ],
+      "Nombre": [
+        "Ángela Falque",
+        "ok",
+        "F3610"
+      ],
+      "Casino": [
+        null,
+        "wait",
+        "U3610"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V3610"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W3610"
+      ],
+      "CBD": [
+        null,
+        "wait",
+        "X3610"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y3610"
+      ],
+      "General": [
+        "190",
+        "ok",
+        "Z3610"
+      ],
+      "Etiqueta": [
+        null,
+        "wait",
+        "AG3610"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3610"
+      ],
+      "Permanencia": [
+        "3 años",
+        "ok",
+        "AI3610"
+      ]
+    },
+    "pendiente": [
+      "Etiqueta (AG): las dos direcciones dicen cosas distintas, hay que aclarar cuál aplica",
+      "Cripto (V), forex (W), CBD (X) y dating (Y): no se nombran",
+      "Casino (U): confirmar que con licencia española sí, y a qué precio"
+    ]
+  },
+  {
+    "id": "cabtfe",
+    "medios": [
+      "cabtfe.es"
+    ],
+    "estado": "care",
+    "turno": "nuestra",
+    "destinatario": "contacto@cabtfe.es",
+    "hilo": {
+      "asunto": "RE: Tarifas de vuestros medios",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-03T13:43:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-01T13:19:35Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "180 € · seis webs más de dudosa propiedad",
+    "aviso": "Las condiciones confirmadas son de cabtfe.es. No las extiendas a las otras seis webs sin preguntar.",
+    "suUltimoCorreo": "Si. Entran también forex y webs de citas bajo esa misma tarifa.\n\nUn saludo.",
+    "borrador": {
+      "nombre": "Cierre",
+      "texto": "Hola,\n\nCon eso lo tengo cerrado, gracias:\n\n- 180 € por sitio, impuestos aparte, y 30 € más si lo redactáis vosotros\n- Hasta tres enlaces dofollow permanentes, sin etiqueta de patrocinado\n- Mínimo 500 palabras y pago por adelantado\n- Temáticas: CBD, criptomonedas, apuestas, casinos y también forex y webs de citas, todas a la misma tarifa\n\nTe escribo con el primer artículo en cuanto tenga un cliente que encaje.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "contacto@cabtfe.es",
+        "ok",
+        "D3777"
+      ],
+      "Nombre": [
+        null,
+        "plain",
+        "F3777"
+      ],
+      "Casino": [
+        "180",
+        "ok",
+        "U3777"
+      ],
+      "Cripto": [
+        "180",
+        "ok",
+        "V3777"
+      ],
+      "Forex": [
+        "180",
+        "ok",
+        "W3777"
+      ],
+      "CBD": [
+        "180",
+        "ok",
+        "X3777"
+      ],
+      "Dating": [
+        "180",
+        "ok",
+        "Y3777"
+      ],
+      "General": [
+        "180",
+        "ok",
+        "Z3777"
+      ],
+      "Etiqueta": [
+        "ninguna",
+        "ok",
+        "AG3777"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3777"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI3777"
+      ]
+    },
+    "pendiente": [
+      "Confirmar si las seis webs extra son suyas o de terceros"
+    ]
+  },
+  {
+    "id": "novedades",
+    "medios": [
+      "novedadestecnologia.com"
+    ],
+    "estado": "care",
+    "turno": "suya",
+    "destinatario": "hola@novedadestecnologia.com",
+    "hilo": {
+      "asunto": "RE: Oportunidad de colaboración de contenido",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": null,
+    "nuestroUltimo": {
+      "when": "2026-08-26T13:27:00Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "Alexis otra vez · dofollow condicionado",
+    "aviso": "El precio es orientativo por escrito: hay que consultar la tarifa vigente antes de cada publicación.",
+    "suUltimoCorreo": "Hola Mauricio,\n\nGracias por tu interes. Soy Alexis, editor de novedadestecnologia\n\nSolo aceptamos las tematicas: temas relacionados a nuestro nicho.\n\nIdioma de publicacion: solo espanol.\nTraduccion EN a ES incluida si el borrador viene en ingles.\n\nTarifas:\n- Guest post estandar (enlace Sponsored): 30 EUR / (enlace dofollow): 50 EUR\n- Redaccion por nuestro equipo: +15 EUR\n\nLos enlaces son Sponsored por defecto, siguiendo las directrices oficiales de Google para contenido patrocinado. Acepto DoFollow unicamente para marcas establecidas con dominios de alta autoridad y enlaces contextualmente naturales.\n\nIncluye:\n- Publicacion en categoria correspondiente, sin fecha de vencimiento. Me reservo el derecho de eliminar si el dominio cliente caduca, hace redireccion a un sitio no relacionado, o es penalizado por Google.\n- Imagenes de alta calidad\n- Visibilidad en pagina principal al menos 5 dias\n- Difusion en redes sociales\n- Indexacion manual en Google, Bing y Yandex\n\nRequisitos del contenido: minimo 700 palabras, original (no IA sin revision).\n\nPago: PayPal o criptomonedas (USDT, BUSD).\n\nNota importante:\nLos precios indicados son orientativos y pueden actualizarse en funcion de metricas del sitio (DR, DA, trafico). Antes de enviar cualquier borrador o tematica, consulta la tarifa vigente.\n\nEnvíame la tematica o borrador para empezar.\n\nUn saludo,\nAlexis",
+    "borrador": {
+      "nombre": "Recordatorio · condiciones del dofollow",
+      "texto": "Hola Alexis,\n\nRetomo el hilo de agosto. Tengo anotado: 30 € con enlace sponsored y 50 € con dofollow, 15 € más si lo redactáis vosotros, mínimo 700 palabras, solo temática de vuestro nicho y solo en español, publicación sin fecha de vencimiento con cinco días en portada, y pago por PayPal o cripto.\n\nDos cosas antes de mandarte una temática:\n\n- Nosotros trabajamos casi siempre con dofollow, y dices que lo das solo a marcas establecidas con dominio de autoridad. ¿Qué miras exactamente? Si me lo dices, filtro yo antes y no te propongo clientes que no vayan a pasar.\n- Anotado que los precios son orientativos. Cuando te mande una temática te pido la tarifa vigente antes de cerrar con el cliente.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "hola@novedadestecnologia.com",
+        "ok",
+        "D3696"
+      ],
+      "Nombre": [
+        "Alexis",
+        "ok",
+        "F3696"
+      ],
+      "Casino": [
+        null,
+        "wait",
+        "U3696"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V3696"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W3696"
+      ],
+      "CBD": [
+        null,
+        "wait",
+        "X3696"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y3696"
+      ],
+      "General": [
+        "50",
+        "ok",
+        "Z3696"
+      ],
+      "Etiqueta": [
+        null,
+        "wait",
+        "AG3696"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "wait",
+        "AH3696"
+      ],
+      "Permanencia": [
+        "permanent",
+        "wait",
+        "AI3696"
+      ]
+    },
+    "pendiente": [
+      "Casino (U), cripto (V), forex (W), CBD (X) y dating (Y): ninguna se menciona",
+      "Tipo de enlace (AH): confirmar si aplica el mismo criterio de dofollow que en sus otros sitios",
+      "Etiqueta (AG): habla del atributo del enlace, no de si el artículo lleva etiqueta visible"
+    ]
+  },
+  {
+    "id": "mallorcactual",
+    "medios": [
+      "mallorcactual.com",
+      "manacormanacor.com",
+      "viufelanitx.com"
+    ],
+    "estado": "care",
+    "turno": "nuestra",
+    "destinatario": "mallorca@mallorcactual.com",
+    "hilo": {
+      "asunto": "RE: Posible colaboración para artículos ",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-04T13:27:19Z",
+    "nuestroUltimo": {
+      "when": "2026-09-03T16:46:47Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Marc Rigo · 60 € · no se retira · sin forex, CBD ni citas",
+    "aviso": "",
+    "suUltimoCorreo": "El tiempo garantizado es un año, aunque no se retira.\n\nLa segunda pregunta es NO\n\nUn saludo.\n\nMarc Rigo",
+    "borrador": {
+      "nombre": "Cierre",
+      "texto": "Hola Marc,\n\nPerfecto, con eso lo tengo cerrado, y me quitas la duda que más me importaba: el año es de garantía, pero el artículo no se retira.\n\nQueda anotado así: 60 € + IVA por transferencia o 65 € por PayPal en mallorcactual.com, manacormanacor.com y viufelanitx.com; portada 80 € y 85 €; enlace en artículo ya publicado 25 € y 30 €; dos enlaces dofollow fuera del primer párrafo y sin figurar como patrocinado. Fuera juegos, casinos, criptomonedas, prostitución, sexo y escorts, y también forex, CBD y webs de citas.\n\nTe escribo con el primer artículo en cuanto tenga un cliente que encaje.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "mallorca@mallorcactual.com",
+        "ok",
+        "D3700"
+      ],
+      "Nombre": [
+        "Marc Rigo",
+        "ok",
+        "F3700"
+      ],
+      "Casino": [
+        null,
+        "no",
+        "U3700"
+      ],
+      "Cripto": [
+        null,
+        "no",
+        "V3700"
+      ],
+      "Forex": [
+        null,
+        "no",
+        "W3700"
+      ],
+      "CBD": [
+        null,
+        "no",
+        "X3700"
+      ],
+      "Dating": [
+        null,
+        "no",
+        "Y3700"
+      ],
+      "General": [
+        "60",
+        "ok",
+        "Z3700"
+      ],
+      "Etiqueta": [
+        "ninguna",
+        "ok",
+        "AG3700"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3700"
+      ],
+      "Permanencia": [
+        "1 año garantizado · no se retira",
+        "ok",
+        "AI3700"
+      ]
+    },
+    "pendiente": [
+      "Permanencia (AI): aclarar qué pasa con el artículo pasado el año garantizado",
+      "Forex (W) y CBD (X): no se nombran"
+    ]
+  },
+  {
+    "id": "innovaspain",
+    "medios": [
+      "innovaspain.com"
+    ],
+    "estado": "care",
+    "turno": "nuestra",
+    "destinatario": "mlacalle@innovaspain.com",
+    "hilo": {
+      "asunto": "RE: Oportunidad de colaboración de contenido",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-04T06:26:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-03T16:48:57Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "María Lacalle · 215 € y redacción no disponible",
+    "aviso": "",
+    "suUltimoCorreo": "Buenos dias.\nRespondo sobre tu email:\n\n- Aceptais criptomonedas y forex? No aparecen ni entre los temas vetados ni entre los aceptados.\nNo criptomonedas\n\n- Los contenidos van en la seccion Marcas Innovaspain. Eso aparece como etiqueta de patrocinado en el articulo, o es solo la ubicacion?\nSolo la ubicacion\n\n- Hay minimo de palabras?\n700",
+    "borrador": {
+      "nombre": "Una sola pregunta",
+      "texto": "Hola María,\n\nGracias, con eso lo tengo casi todo. Anotado: criptomonedas no, la sección «Marcas Innovaspain» es solo la ubicación y no una etiqueta de patrocinado, y mínimo 700 palabras.\n\nMe queda una sola cosa, que se me quedó colgada de la pregunta anterior: te preguntaba por criptomonedas y forex juntas, y me contestaste solo por criptomonedas. ¿Forex entra o queda fuera también?\n\nCon eso cierro la ficha en los 215 € sin IVA con el texto redactado por nosotros.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "mlacalle@innovaspain.com",
+        "ok",
+        "D3381"
+      ],
+      "Nombre": [
+        "María Lacalle",
+        "ok",
+        "F3381"
+      ],
+      "Casino": [
+        null,
+        "no",
+        "U3381"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V3381"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W3381"
+      ],
+      "CBD": [
+        null,
+        "no",
+        "X3381"
+      ],
+      "Dating": [
+        null,
+        "no",
+        "Y3381"
+      ],
+      "General": [
+        "215",
+        "ok",
+        "Z3381"
+      ],
+      "Etiqueta": [
+        null,
+        "wait",
+        "AG3381"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH3381"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI3381"
+      ]
+    },
+    "pendiente": [
+      "Cripto (V) y forex (W): no se nombran",
+      "Etiqueta (AG): aclarar si «Marcas Innovaspain» sale como etiqueta de patrocinado o es solo la sección",
+      "Mínimo de palabras: no lo dice"
+    ]
+  },
+  {
+    "id": "cuencanews",
+    "medios": [
+      "cuencanews.es"
+    ],
+    "estado": "care",
+    "turno": "suya",
+    "destinatario": "cuencanews@hotmail.com",
+    "hilo": {
+      "asunto": "RE: Oportunidad de colaboración de contenido",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-20T22:23:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-01T13:17:25Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "70 € y nada más · la ficha más vacía",
+    "aviso": "ESPERANDO SU RESPUESTA. Nuestro último correo salió el 2026-09-01 desde simon@, o sea que la pelota es suya. El borrador de al lado es un RECORDATORIO para dentro de unos días, no un correo nuevo: mandarlo ahora es escribirles dos veces seguidas. · Con solo el precio esta ficha no se puede vender. Falta lo esencial: tipo de enlace y permanencia.",
+    "suUltimoCorreo": "Hola, el coste es de 70 EUR y el pago es via paypal\n\nUn saludo",
+    "borrador": {
+      "nombre": "Recordatorio · solo si tardan",
+      "texto": "Hola,\n\nTe escribo por aquí porque el 1 de septiembre te mandé un correo con otro asunto y creo que se te perdió entre el resto. Culpa nuestra: debí contestar en este mismo hilo.\n\nTengo anotado que el coste es de 70 € y el pago por PayPal.\n\nMe faltan dos cosas para poder ofreceros a clientes:\n\n- ¿El enlace se publica como dofollow?\n- ¿Qué temáticas aceptáis? Concretamente casino y apuestas, criptomonedas, forex, CBD y webs de citas. Y si alguna entra, ¿se mantienen los 70 € o tiene otra tarifa?\n\nCon eso cierro la ficha.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "local@cuencanews.es",
+        "ok",
+        "D3577"
+      ],
+      "Contacto extra": [
+        "cuencanews@hotmail.com",
+        "ok",
+        "E3577"
+      ],
+      "Nombre": [
+        null,
+        "plain",
+        "F3577"
+      ],
+      "Casino": [
+        null,
+        "wait",
+        "U3577"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V3577"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W3577"
+      ],
+      "CBD": [
+        null,
+        "wait",
+        "X3577"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y3577"
+      ],
+      "General": [
+        "70",
+        "ok",
+        "Z3577"
+      ],
+      "Etiqueta": [
+        null,
+        "wait",
+        "AG3577"
+      ],
+      "Tipo de enlace": [
+        null,
+        "wait",
+        "AH3577"
+      ],
+      "Permanencia": [
+        null,
+        "wait",
+        "AI3577"
+      ]
+    },
+    "pendiente": [
+      "Tipo de enlace (AH): no lo dice",
+      "Permanencia (AI): no la dice",
+      "Etiqueta (AG): no la dice",
+      "Las cinco categorías (U a Y): ninguna se menciona"
+    ]
+  },
+  {
+    "id": "motorpoint",
+    "medios": [
+      "motorpoint.com",
+      "tribunadelamoraleja.com"
+    ],
+    "estado": "ok",
+    "turno": "acuse",
+    "destinatario": "concha@motorpoint.com",
+    "hilo": {
+      "asunto": "RE: Motorpoint",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-26T13:35:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-26T13:16:15Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "2 medios de motor/lujo · 450 € y 350 €",
+    "aviso": "Precio alto (450 €). Confirmar categorías antes de ofrecer a clientes.",
+    "suUltimoCorreo": "Ok gracias",
+    "borrador": {
+      "nombre": "Nada que preguntar",
+      "texto": "Hola Concha,\n\nTodo anotado: motorpoint.com 450 € y tribunadelamoraleja.com 350 €, artículos patrocinados permanentes con enlace dofollow, sin etiqueta de patrocinado, pago por transferencia, temática relacionada con las webs y fuera sexo, drogas y CBD.\n\nTe escribo cuando tenga el primer artículo listo.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "concha@motorpoint.com",
+        "ok",
+        "D-"
+      ],
+      "Nombre": [
+        null,
+        "wait",
+        "F-"
+      ],
+      "Casino": [
+        null,
+        "wait",
+        "U-"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V-"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W-"
+      ],
+      "CBD": [
+        null,
+        "wait",
+        "X-"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y-"
+      ],
+      "General": [
+        "450",
+        "wait",
+        "Z-"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH-"
+      ],
+      "Permanencia": [
+        "permanent",
+        "ok",
+        "AI-"
+      ]
+    },
+    "pendiente": [
+      "Casino, cripto, forex, CBD, dating: no se nombran",
+      "Etiqueta de patrocinado",
+      "Mínimo de palabras",
+      "Contacto directo (nombre y email)"
+    ]
+  },
+  {
+    "id": "merca2",
+    "medios": [
+      "merca2.es",
+      "motor16.com",
+      "moncloa.com",
+      "vida.es",
+      "que.es",
+      "lamoraleja.com"
+    ],
+    "estado": "care",
+    "turno": "suya",
+    "destinatario": "publicidad.gm2@merca2.es",
+    "hilo": {
+      "asunto": "RE: Consulta sobre colaboración editorial",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-26T08:29:00Z",
+    "nuestroUltimo": {
+      "when": "2026-09-01T14:18:54Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Grupo Merca2 · 350 € sponsored / 500 € dofollow",
+    "aviso": "350 € es sponsored y 500 € dofollow. No confundir las dos cifras: vender un dofollow al precio del sponsored nos come el margen entero.",
+    "suUltimoCorreo": "Buenos dias,\n\nLas tarifas que tienen en su plataforma estan desactualizadas. Le vuelvo a adjuntar las nuevas tarifas\n\nEn cuanto al tema de CBD, si seguimos aceptando solo articulos de cosmetica y aceites esenciales",
+    "borrador": {
+      "nombre": "Recordatorio · solo si tardan",
+      "texto": "Hola,\n\nTe escribo otra vez por el tarifario, porque sigue sin llegarme.\n\nEn tu correo del 26 de agosto dices que me adjuntas las nuevas tarifas, pero el mensaje solo trae la imagen de vuestra firma. No hay documento. Te lo digo para que no penséis que no lo he mirado.\n\n¿Me lo puedes reenviar? Si el adjunto se cae otra vez, con pegar las cifras en el cuerpo del correo me vale.\n\nY con él, las dos cosas que me quedaron pendientes:\n\n- En apuestas y casino me indicaste 600 € más IVA con enlace sponsored. ¿Hay opción con enlace dofollow para esa temática, aunque sea a otra tarifa?\n- Tarifa de agencia: trabajamos con varias marcas de forma recurrente, así que el volumen sería sostenido, no puntual.\n\nAnotado ya lo del CBD: solo cosmética y aceites esenciales.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "publicidad.gm2@merca2.es",
+        "ok",
+        "D-"
+      ],
+      "Contacto extra": [
+        "vorihuela@merca2.es",
+        "ok",
+        "E-"
+      ],
+      "Nombre": [
+        null,
+        "wait",
+        "F-"
+      ],
+      "Casino": [
+        null,
+        "wait",
+        "U-"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V-"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W-"
+      ],
+      "CBD": [
+        "solo cosmética/aceites",
+        "wait",
+        "X-"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y-"
+      ],
+      "General": [
+        "350",
+        "wait",
+        "Z-"
+      ],
+      "Tipo de enlace": [
+        "Sponsored / Do follow",
+        "wait",
+        "AH-"
+      ],
+      "Permanencia": [
+        null,
+        "wait",
+        "AI-"
+      ]
+    },
+    "pendiente": [
+      "El tarifario que dijo mandar el 26/08 y no llegó",
+      "Precio de casino y apuestas",
+      "Precio de cripto",
+      "Si el límite del CBD vale para los seis medios",
+      "Permanencia del artículo"
+    ]
+  },
+  {
+    "id": "mediosyredes",
+    "medios": [
+      "mediosyredes.com"
+    ],
+    "estado": "care",
+    "turno": "nuestra",
+    "destinatario": "publicidad@mediosyredes.com",
+    "hilo": {
+      "asunto": "RE: Propuesta de colaboración",
+      "buzon": "simon",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-26T07:00:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-25T13:44:51Z",
+      "buzon": "simon"
+    },
+    "etiqueta": "Forex sí · casino y apuestas no · falta el precio",
+    "aviso": "Correo suyo sin leer desde el 26/08. Contestar antes de que el hilo se enfríe del todo.",
+    "suUltimoCorreo": "Buenos dias,\n\nSi, si. Forex si que lo aceptamos.\n\nSaludos",
+    "borrador": {
+      "nombre": "Cerrar el precio",
+      "texto": "Hola,\n\nGracias por confirmarme el forex.\n\nMe queda el precio, y quiero dejarlo por escrito en el correo. Del listado que me mandasteis el 24 de agosto entiendo esto, dime si es correcto:\n\n- El precio de cada web es el del PDF, y sobre esos precios se aplica un 20 % de descuento de agencia\n- Fuera juego, casinos, apuestas, sexo y drogas\n- Forex sí entra\n\nY dos cosas que no vi en el listado: ¿los enlaces son dofollow y los artículos quedan permanentes? ¿Y criptomonedas y CBD entran o quedan fuera con las apuestas?\n\nUna última cosa, por curiosidad y para no duplicaros el trabajo: el listado viene como «Blogs Color Vivo», y estamos hablando también con Ángel Carrero de colorvivo.com para herencia.net. ¿Sois la misma casa? Si es así, mejor centralizamos y no os escribimos por dos sitios.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "publicidad@mediosyredes.com",
+        "ok",
+        "D-"
+      ],
+      "Nombre": [
+        null,
+        "wait",
+        "F-"
+      ],
+      "Casino": [
+        null,
+        "no",
+        "U-"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V-"
+      ],
+      "Forex": [
+        "sí",
+        "ok",
+        "W-"
+      ],
+      "CBD": [
+        null,
+        "wait",
+        "X-"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y-"
+      ],
+      "General": [
+        null,
+        "wait",
+        "Z-"
+      ],
+      "Tipo de enlace": [
+        null,
+        "wait",
+        "AH-"
+      ],
+      "Permanencia": [
+        null,
+        "wait",
+        "AI-"
+      ]
+    },
+    "pendiente": [
+      "Precio por artículo con el descuento de agencia",
+      "Cripto, CBD y dating",
+      "Tipo de enlace",
+      "Permanencia"
+    ]
+  },
+  {
+    "id": "tribunasur",
+    "medios": [
+      "tribunasur.es",
+      "lavozdemarchena.es",
+      "europadigital.es",
+      "asturias24.es",
+      "plataformasinc.es",
+      "primeralinea.es"
+    ],
+    "estado": "care",
+    "turno": "nuestra",
+    "destinatario": "hola@tribunasur.es",
+    "hilo": {
+      "asunto": "RE: Consulta sobre publicaciones",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-01T10:59:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-28T14:08:26Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "180 € · nadie ha contestado desde el 01/09",
+    "aviso": "",
+    "suUltimoCorreo": "Hola,\nGracias por ponerse en contacto.\nEl precio para publicar un articulo en nuestra web es de 180 euros (impuestos no incluidos). El articulo debe ser original y tener un minimo de 500 palabras.\nEn caso de que deseen que lo redactemos nosotros, se aplicara un suplemento de 30 euros.\nPermitimos un maximo de 3 enlaces dofollow permanentes por articulo. Los articulos no se marcan como patrocinados y no anadimos enlaces a publicaciones ya existentes.\nAceptamos contenidos sobre CBD, criptomonedas, apuestas y casinos, todos bajo la misma tarifa.\nEl pago se realiza por adelantado, mediante transferencia bancaria o PayPal.\nOtras webs:\nhttps://tribunasur.es/ 180 EUR\nhttps://lavozdemarchena.es/ 180 EUR\nhttps://europadigital.es/ 180 EUR\nhttps://asturias24.es/ 180 EUR\nhttps://plataformasinc.es/ 180 EUR\nhttps://primeralinea.es/ 180 EUR\n\nUn saludo cordial.",
+    "borrador": {
+      "nombre": "Primera respuesta",
+      "texto": "Hola,\n\nGracias por el detalle, y perdona la tardanza.\n\nTengo anotado: 180 € por artículo sin impuestos, 30 € más si lo redactáis vosotros, mínimo 500 palabras y original, hasta tres enlaces dofollow permanentes, sin etiqueta de patrocinado, sin inserción en artículos ya publicados, y pago por adelantado. CBD, criptomonedas, apuestas y casinos dentro, todos a la misma tarifa.\n\nY anotados los seis dominios a 180 € cada uno: tribunasur.es, lavozdemarchena.es, europadigital.es, asturias24.es, plataformasinc.es y primeralinea.es.\n\nUna cosa para no duplicaros el trabajo: estamos hablando también con contacto@cabtfe.es, y las condiciones que nos dieron son idénticas a las tuyas. ¿Sois la misma casa? Si es así, seguimos por un solo hilo, el que prefieras.\n\nY ellos nos confirmaron que forex y webs de citas también entran a la misma tarifa. ¿Vale eso también para estas seis webs?\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "hola@tribunasur.es",
+        "ok",
+        "D-"
+      ],
+      "Nombre": [
+        null,
+        "wait",
+        "F-"
+      ],
+      "Casino": [
+        null,
+        "wait",
+        "U-"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V-"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W-"
+      ],
+      "CBD": [
+        null,
+        "wait",
+        "X-"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y-"
+      ],
+      "General": [
+        "180",
+        "ok",
+        "Z-"
+      ],
+      "Tipo de enlace": [
+        null,
+        "wait",
+        "AH-"
+      ],
+      "Permanencia": [
+        null,
+        "wait",
+        "AI-"
+      ]
+    },
+    "pendiente": [
+      "Tipo de enlace",
+      "Permanencia",
+      "Etiqueta de patrocinado",
+      "Las cinco categorías especiales"
+    ]
+  },
+  {
+    "id": "grupoextramedia",
+    "medios": [
+      "madridnorte24horas.com",
+      "madrid24horas.com"
+    ],
+    "estado": "care",
+    "turno": "nuestra",
+    "destinatario": "extramedia@grupoextramedia.es",
+    "hilo": {
+      "asunto": "RE: Posible colaboración para artículos ",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-09-01T19:20:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-28T13:06:35Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "Dice que ya trabajó con nosotros · sin precio",
+    "aviso": "Dice que ya hemos trabajado juntos. Buscar el histórico antes de contestar.",
+    "suUltimoCorreo": "Hola, Mauricio.\nEncantado de saludarte.\nEl correo para estas acciones es este desde el que te escribo: extramedia@grupoextramedia.es\nYa hemos trabajado con tu agencia en varias ocasiones.\nDoy contestacion a tu propuesta.\nAceptamos articulos invitados con enlace dofollow SOLO de contenido periodistico de tematica general neutra: tendencias de motor, deportes, musica, tecnologia, servicios, turismo, etc.\nDisponemos de dos medios:\nMadridNorte24horas.com:\nEl precio por articulo invitado publicado SOLO de contenido periodistico de tematica general con enlace a sitio general: 99 EUR + IVA.\nEl precio por articulo invitado publicado con enlace a sitios tipo informacion casino, cryptos, finanzas, CBD o similar: 135 EUR + IVA.\nMadrid24horas.com:\nEl precio con enlace a sitio general: 85 EUR + IVA.\nEl precio con enlace a sitios tipo informacion casino, cryptos, finanzas, CBD o similar: 120 EUR + IVA.\nNo se admiten articulos que promocionen directamente el juego ni enlaces a sitios sin licencia operativa en Espana.\nNo se admiten articulos ni enlaces con tematica \"adultos\".\nY en definitiva, todos los articulos deben cumplir con la legislacion vigente en Espana.\nLa publicacion se realizara previa aprobacion de nuestra redaccion. No obstante, si una vez publicado se detecta cualquier irregularidad administrativa o legal o penalizacion de Google se retirara el articulo sin ningun derecho a reclamacion economica ni de ninguna clase por parte de la agencia.\nQuedo a disposicion.\nGracias mil\nAlex",
+    "borrador": {
+      "nombre": "Primera respuesta",
+      "texto": "Hola Alex,\n\nGracias por el detalle, y perdona la tardanza. Anotado que el correo para esto es extramedia@grupoextramedia.es, y desde ahora escribimos solo ahí.\n\nTengo las tarifas apuntadas así:\n\n- MadridNorte24horas.com: 99 € más IVA con enlace general, 135 € más IVA con enlace a casino, cripto, finanzas o CBD\n- Madrid24horas.com: 85 € más IVA con enlace general, 120 € más IVA con enlace sensible\n\nY las condiciones: artículo de temática general neutra, enlace dofollow, sin promoción directa del juego, sin enlaces a sitios sin licencia en España y sin temática de adultos.\n\nDos cosas, una de ellas importante:\n\n- Mencionas que ya habéis trabajado con nuestra agencia varias veces. Yo llevo el equipo desde hace poco y no tengo esa colaboración localizada. Si te acuerdas del año o de la marca, me ayudas a encontrarla y así no te repito condiciones peores que las que ya teníais.\n- Sobre la cláusula de retirada: entiendo que si hay una irregularidad legal o una penalización de Google, el artículo se retira sin devolución. Lo acepto, pero necesito poder decirle al cliente qué se considera irregularidad. ¿Te refieres a que el sitio del cliente pierda la licencia o incumpla la ley, o también a una penalización de Google que sufra vuestro medio por otros motivos?\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "extramedia@grupoextramedia.es",
+        "ok",
+        "D-"
+      ],
+      "Nombre": [
+        null,
+        "wait",
+        "F-"
+      ],
+      "Casino": [
+        null,
+        "wait",
+        "U-"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V-"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W-"
+      ],
+      "CBD": [
+        null,
+        "wait",
+        "X-"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y-"
+      ],
+      "General": [
+        null,
+        "wait",
+        "Z-"
+      ],
+      "Tipo de enlace": [
+        null,
+        "wait",
+        "AH-"
+      ],
+      "Permanencia": [
+        null,
+        "wait",
+        "AI-"
+      ]
+    },
+    "pendiente": [
+      "Precio por artículo",
+      "Qué medios y a qué precio cada uno",
+      "Tipo de enlace, permanencia y etiqueta",
+      "Las cinco categorías especiales",
+      "La colaboración anterior que menciona"
+    ]
+  },
+  {
+    "id": "tremplin",
+    "medios": [
+      "tremplin-numerique.org"
+    ],
+    "estado": "care",
+    "turno": "nuestra",
+    "destinatario": "contact@tremplin-numerique.org",
+    "hilo": {
+      "asunto": "RE: Posible colaboración para artículos",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-24T18:43:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-24T13:03:16Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "Mandó un Excel de medios · nadie contestó",
+    "aviso": "Probable revendedor. Cruzar su lista con la Database antes de pedir precio: puede que ya tengamos esos medios en directo y más baratos.",
+    "suUltimoCorreo": "Hello, here is a link to an Excel table in which you will find all the websites where we put articles for sale as well as the prices per article: https://docs.google.com/spreadsheets/d/1MfzebEcRiCh5GBC7Wnrq093N6AdcdHGoJ8hLKNTgyHk/\n\nPlease use only the email address contact@tremplin-numerique.org to exchange with us or place your orders.\n\nPrice:\nThe prices indicated do not include the writing (you are in charge of the writing of an article) and do not include sensitive subjects/links (casino, poker, crypto, CBD, dating, trading, VPN, medications...). For this kind of links, see the \"Sensitive subject\" paragraph.\n\nIf you wish to delegate the writing of your article to our editors, the writing fees are here below:\n- 35 EUR for 500 words\n- 50 EUR for 1000 words\n- 70 EUR for 1500 words\n\nOur traffic and metrics are constantly changing. The prices indicated are therefore valid until the 30th (or 31th) of each month and the table will be updated on the 1st of each month.\n\nSensitive subject:\nFor articles with an outbound link to a \"sensitive\" site (casino, poker, crypto, CBD, dating, trading, VPN, medications...): prices are 2 to 3 times those shown in the table:\n- 2 times the prices in the excel table for an article with a non-optimized title and anchor.\n- 3 times the prices in the excel table for an article with a title related to casino, CBD, dating, trading, VPN, etc., and an optimized anchor.\n\nLink in an existing article:\nThe price for adding a link in an existing article is the same than the price for publishing a new article.\n\nRules:\n1. The article will contain one dofollow link to your site with no time limit.\n2. The article will not be marked \"sponsored\".\n3. The article will be visible for a few days on the home page of the site, except in the case of articles with \"sensitive\" subjects/links.\n4. The article will remain online indefinitely on our site. It will never be deleted, and the link will never be changed to nofollow.\n5. The article will be published in less than 24 hours.\n\nPayment:\nPayment can be made by bank transfer, in which case we will need your company information and your VAT number to provide you an invoice.\nPayment by PayPal or cryptocurrency without invoice is also possible.\nIn all cases, payment must be made within a maximum of one week after the publication of the link.\n\nBest regards.\n\nCyrielle",
+    "borrador": {
+      "nombre": "Primera respuesta",
+      "texto": "Hola Cyrielle,\n\nGracias por el detalle, y perdona la tardanza en contestar.\n\nAntes de mirar pedidos concretos necesito aclarar una cosa, porque cambia cómo trabajamos: por lo que entiendo del listado, vosotros revendéis publicaciones en webs de terceros, no en medios propios. ¿Es así?\n\nTe lo pregunto porque con varios de los medios que suelen aparecer en este tipo de listas ya hablamos en directo, y si compramos por los dos lados acabamos pagando dos veces por el mismo enlace. Así que:\n\n- ¿Alguna de esas webs es vuestra?\n- ¿Podéis marcarme en la tabla cuáles son propias y cuáles intermediadas?\n\nAnotado el resto: redacción por nuestra cuenta, 2 o 3 veces el precio en temáticas sensibles según el anclaje, enlace dofollow sin límite de tiempo, sin etiqueta de patrocinado, y pago en la semana siguiente a la publicación.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "contact@tremplin-numerique.org",
+        "ok",
+        "D-"
+      ],
+      "Nombre": [
+        null,
+        "wait",
+        "F-"
+      ],
+      "Casino": [
+        null,
+        "wait",
+        "U-"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V-"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W-"
+      ],
+      "CBD": [
+        null,
+        "wait",
+        "X-"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y-"
+      ],
+      "General": [
+        null,
+        "wait",
+        "Z-"
+      ],
+      "Tipo de enlace": [
+        null,
+        "wait",
+        "AH-"
+      ],
+      "Permanencia": [
+        null,
+        "wait",
+        "AI-"
+      ]
+    },
+    "pendiente": [
+      "Si los medios son suyos o los intermedian",
+      "Qué medios y a qué precio",
+      "Tipo de enlace y permanencia",
+      "Las cinco categorías especiales"
+    ]
+  },
+  {
+    "id": "noticialminuto",
+    "medios": [
+      "noticialminuto.com"
+    ],
+    "estado": "care",
+    "turno": "suya",
+    "destinatario": "mercadeo.noticialminuto@gmail.com",
+    "hilo": {
+      "asunto": "RE: Propuesta de colaboración",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-24T14:32:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-26T13:46:00Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "Portada · 2 dofollow · sin etiqueta · falta precio",
+    "aviso": "Sin precio no hay ficha. Es lo único que falta y sin eso no se puede ofrecer a nadie.",
+    "suUltimoCorreo": "Saludos Cordiales!\n\nEl precio aplica a todas las categorias. No aceptamos Dating.",
+    "borrador": {
+      "nombre": "Recordatorio · solo si tardan",
+      "texto": "Hola,\n\nPerfecto, con eso lo tengo cerrado: el precio aplica a todas las categorías y las webs de citas quedan fuera.\n\nAnotado el resto: publicación en portada, mínimo 400 palabras, hasta dos enlaces dofollow y sin etiqueta de patrocinado.\n\nTe escribo con el primer artículo en cuanto tenga un cliente que encaje.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "mercadeo.noticialminuto@gmail.com",
+        "ok",
+        "D-"
+      ],
+      "Nombre": [
+        null,
+        "wait",
+        "F-"
+      ],
+      "Casino": [
+        null,
+        "wait",
+        "U-"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V-"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W-"
+      ],
+      "CBD": [
+        null,
+        "wait",
+        "X-"
+      ],
+      "Dating": [
+        null,
+        "no",
+        "Y-"
+      ],
+      "General": [
+        null,
+        "wait",
+        "Z-"
+      ],
+      "Tipo de enlace": [
+        "Do follow",
+        "ok",
+        "AH-"
+      ],
+      "Permanencia": [
+        null,
+        "wait",
+        "AI-"
+      ]
+    },
+    "pendiente": [
+      "El precio por publicación, que nunca lo ha dado"
+    ]
+  },
+  {
+    "id": "publicacionesdelsur",
+    "medios": [
+      "publicacionesdelsur.net"
+    ],
+    "estado": "care",
+    "turno": "suya",
+    "destinatario": "proyectos@publicacionesdelsur.net",
+    "hilo": {
+      "asunto": "RE: Posible colaboración a largo plazo",
+      "buzon": "mauro",
+      "verificado": "2026-09-04"
+    },
+    "ultimaRespuesta": "2026-08-24T12:48:00Z",
+    "nuestroUltimo": {
+      "when": "2026-08-24T12:50:20Z",
+      "buzon": "mauro"
+    },
+    "etiqueta": "Dirección nueva · sin respuesta a la propuesta",
+    "aviso": "Cuatro direcciones probadas en esta casa y tres muertas. Escribir solo a proyectos@ y no volver a abrir hilos nuevos: ya recibieron tres propuestas sueltas en agosto.",
+    "suUltimoCorreo": "La direccion de correo electronico v.agar@publicacionesdelsur.net  ha a dejado de estar operativa.\nLes rogamos anoten la siguiente direccion y telefono para realizar cualquier tramite o consulta y asi poder atenderle lo antes posible.\nproyectos@publicacionesdelsur.net\nTelefono: 661367660\nDisculpen las molestias.",
+    "borrador": {
+      "nombre": "Seguimiento a la única dirección viva",
+      "texto": "Hola,\n\nOs escribí el 24 de agosto a esta dirección, justo después del aviso de que v.agar@ dejaba de funcionar, y no he tenido respuesta. Lo intento una vez más por si se perdió entre el cambio de correo.\n\nSomos una agencia y publicamos artículos patrocinados en medios. Lo que necesito saber es corto:\n\n- Precio por artículo patrocinado, y en qué cabeceras\n- Si el enlace va dofollow y si el artículo queda permanente\n- Si lleva etiqueta de patrocinado\n- Si aceptáis casino y apuestas, criptomonedas, forex, CBD o webs de citas\n\nSi esto no es tu departamento, dime a quién se lo paso y no te molesto más. Y si no os interesa, dímelo también y os saco de la lista.\n\nUn saludo,"
+    },
+    "celdas": {
+      "Contacto": [
+        "proyectos@publicacionesdelsur.net",
+        "ok",
+        "D-"
+      ],
+      "Nombre": [
+        null,
+        "wait",
+        "F-"
+      ],
+      "Casino": [
+        null,
+        "wait",
+        "U-"
+      ],
+      "Cripto": [
+        null,
+        "wait",
+        "V-"
+      ],
+      "Forex": [
+        null,
+        "wait",
+        "W-"
+      ],
+      "CBD": [
+        null,
+        "wait",
+        "X-"
+      ],
+      "Dating": [
+        null,
+        "wait",
+        "Y-"
+      ],
+      "General": [
+        null,
+        "wait",
+        "Z-"
+      ],
+      "Tipo de enlace": [
+        null,
+        "wait",
+        "AH-"
+      ],
+      "Permanencia": [
+        null,
+        "wait",
+        "AI-"
+      ]
+    },
+    "pendiente": [
+      "Todo: precio, medios, tipo de enlace, permanencia, etiqueta y las cinco categorías"
+    ]
+  }
+]
